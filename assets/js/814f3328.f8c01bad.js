@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstefanicjuraj_github_io=self.webpackChunkstefanicjuraj_github_io||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"index","permalink":"/blog/index","unlisted":false,"date":"2024-10-04T20:29:06.000Z"}]}')}}]);
