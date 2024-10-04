@@ -11,6 +11,7 @@ const config: Config = {
   baseUrl: '/',
   organizationName: 'stefanicjuraj',
   projectName: 'stefanicjuraj.github.io',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
