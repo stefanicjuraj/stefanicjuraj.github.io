@@ -1,9 +1,0 @@
-development:
-    label: development
-    permalink: /development
-    description: development
-
-documentation:
-    label: documentation
-    permalink: /documentation
-    description: documentation
