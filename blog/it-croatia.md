@@ -11,3 +11,7 @@ A collection of IT companies, conferences, education, certificates, communities,
 [**it-croatia.com**](https://www.it-croatia.com/)
 
 <!-- truncate -->
+
+I started the project in the early years of my academic journey while exploring communities, conferences, and first job opportunities to start my career. As I learned about the world of the IT industry, I decided to create a platform that could serve as a resource for others starting (or continuing) their career journeys.
+
+The initial launch of the project was announced via the [<u>r/CroIT subreddit</u>](https://www.reddit.com/r/CroIT/), where I gathered very helpful and insightful feedback from the community — read and join the [<u>discussion</u>](https://www.reddit.com/r/CroIT/comments/1bfba43/kolekcija_it_kompanija_konferencija_edukacija/).
