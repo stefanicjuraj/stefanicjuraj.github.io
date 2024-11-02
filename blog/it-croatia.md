@@ -8,4 +8,6 @@ title: it-croatia.com
 
 A collection of IT companies, conferences, education, certificates, communities, places to work, podcasts, internships, and dictionary in Croatia.
 
+[**it-croatia.com**](https://www.it-croatia.com/)
+
 <!-- truncate -->
