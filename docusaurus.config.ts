@@ -48,10 +48,10 @@ const config: Config = {
   themeConfig: {
     navbar: {
       title: 'Juraj Štefanić',
-      logo: {
-        alt: 'Logo',
-        src: 'img/logo.svg',
-      },
+      // logo: {
+      //   alt: 'Logo',
+      //   src: 'img/logo.svg',
+      // },
       items: [
         {to: '/blog', label: 'Blog', position: 'left'},
         {
