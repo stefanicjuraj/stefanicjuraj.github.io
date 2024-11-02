@@ -1,4 +1,5 @@
 ---
+authors: jurajstefanic
 slug: it-croatia
 title: it-croatia.com
 ---
