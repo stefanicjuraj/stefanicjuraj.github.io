@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstefanicjuraj_github_io=self.webpackChunkstefanicjuraj_github_io||[]).push([[472],{5513:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"it-croatia.com","permalink":"/blog/it-croatia","unlisted":false,"date":"2024-11-02T22:08:44.000Z"}]}')}}]);
