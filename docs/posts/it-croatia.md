@@ -1,7 +1,7 @@
 ---
-authors: jurajstefanic
-slug: it-croatia
 title: it-croatia.com
+slug: it-croatia
+tags: [it-croatia.com, projects]
 ---
 
 [**GitHub**](https://github.com/stefanicjuraj/it-croatia) • [**Reddit**](https://www.reddit.com/r/CroIT/comments/1bfba43/kolekcija_it_kompanija_konferencija_edukacija/)
@@ -24,14 +24,14 @@ All data collected is sourced from the publicly available information and source
 
 Data is curated using a combination of manual and automated data collection methods.
 
-| **Category**        | **Count** |
-|:--------------------|-----------|
-| Companies           | 1018      |
-| Conferences         | 10+       |
-| Education           | 67        |
-| Certificates        | 67        |
-| Communities         | 10        |
-| Places to Work      | 33        |
-| Podcasts            | 5         |
-| Internships         | 12        |
-| Dictionary          | 525       |
+| **Category**   | **Count** |
+| :------------- | --------- |
+| Companies      | 1018      |
+| Conferences    | 10+       |
+| Education      | 67        |
+| Certificates   | 67        |
+| Communities    | 10        |
+| Places to Work | 33        |
+| Podcasts       | 5         |
+| Internships    | 12        |
+| Dictionary     | 525       |
