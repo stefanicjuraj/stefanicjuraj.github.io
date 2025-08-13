@@ -27,6 +27,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          path: 'docs',
+          routeBasePath: '/',
         },
         blog: {
           showReadingTime: true,
@@ -60,12 +62,6 @@ const config: Config = {
           position: 'right',
         },
       ],
-    },
-    footer: {
-      style: 'light',
-      links: [
-      ],
-      copyright: `© ${new Date().getFullYear()}`,
     },
     prism: {
       theme: prismThemes.github,
