@@ -1,30 +1,84 @@
-body {
-  text-overflow: hidden;
-}
-
-.text-center {
-  text-align: center;
-}
-
 :root {
-  --ifm-color-primary: #333;
-  --ifm-color-primary-dark: #333;
-  --ifm-color-primary-darker: #333;
-  --ifm-color-primary-darkest: #333;
-  --ifm-color-primary-light: #333;
-  --ifm-color-primary-lighter: #333;
-  --ifm-color-primary-lightest: #333;
+  --ifm-color-primary: #000;
+  --ifm-color-primary-dark: #000;
+  --ifm-color-primary-darker: #000;
+  --ifm-color-primary-darkest: #000;
+  --ifm-color-primary-light: #000;
+  --ifm-color-primary-lighter: #000;
+  --ifm-color-primary-lightest: #000;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-color-invert: #fff;
 }
 
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #fff;
-  --ifm-color-primary-dark: #fff;
-  --ifm-color-primary-darker: #fff;
-  --ifm-color-primary-darkest: #fff;
-  --ifm-color-primary-light: #fff;
-  --ifm-color-primary-lighter: #fff;
-  --ifm-color-primary-lightest: #fff;
+  --ifm-color-primary-dark: #000;
+  --ifm-color-primary-darker: #000;
+  --ifm-color-primary-darkest: #000;
+  --ifm-color-primary-light: #000;
+  --ifm-color-primary-lighter: #000;
+  --ifm-color-primary-lightest: #000;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-invert: #000;
+}
+
+@font-face {
+  font-family: "CommitMono";
+  src: url("/fonts/CommitMono-400-Regular.otf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html,
+body,
+h1,
+h2,
+h3 {
+  font-family: "CommitMono", monospace;
+}
+
+html[data-theme="dark"] {
+  background-color: #111;
+}
+
+html {
+  background-color: #fefefe;
+}
+
+p > a {
+  text-decoration: underline;
+}
+
+.menu__link {
+  color: var(--ifm-color-primary);
+}
+
+article {
+  padding: 32px;
+}
+
+table {
+  font-size: 13px;
+}
+
+table tr {
+  border: 0px;
+}
+
+table tr:nth-child(2n) {
+  background-color: transparent;
+}
+
+th {
+  background-color: var(--ifm-color-invert);
+}
+
+nav[aria-label="Docs sidebar"] {
+  border-right: 0.5px solid var(--ifm-color-primary);
+  font-size: 15px;
+}
+
+nav[aria-label="Main"] {
+  border-bottom: 0.5px solid var(--ifm-color-primary);
 }
