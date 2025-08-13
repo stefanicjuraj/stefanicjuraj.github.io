@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstefanicjuraj_github_io=self.webpackChunkstefanicjuraj_github_io||[]).push([[174],{5332:a=>{a.exports=JSON.parse('{"tags":[{"label":"it-croatia.com","permalink":"/tags/it-croatia-com","count":1},{"label":"projects","permalink":"/tags/projects","count":1}]}')}}]);
