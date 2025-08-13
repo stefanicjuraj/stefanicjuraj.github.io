@@ -1,7 +1,7 @@
 ---
 title: it-croatia.com
 slug: it-croatia
-tags: [it-croatia.com, projects]
+tags: [project]
 ---
 
 [**GitHub**](https://github.com/stefanicjuraj/it-croatia) • [**Reddit**](https://www.reddit.com/r/CroIT/comments/1bfba43/kolekcija_it_kompanija_konferencija_edukacija/)
