@@ -1,6 +1,6 @@
 ---
-title: changelog.world
-slug: changelog-world
+title: Changelogs
+slug: changelogs
 tags: [changelog, project]
 sidebar_position: 4
 ---
