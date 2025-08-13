@@ -1,5 +1,5 @@
 ---
-title: it-croatia.com
+title: it-croatia
 slug: it-croatia
 tags: [project]
 ---
