@@ -50,13 +50,6 @@ const config: Config = {
   themeConfig: {
     navbar: {
       title: "Juraj Štefanić",
-      items: [
-        {
-          href: "https://github.com/stefanicjuraj",
-          label: "GitHub",
-          position: "right",
-        },
-      ],
     },
     prism: {
       theme: prismThemes.github,
