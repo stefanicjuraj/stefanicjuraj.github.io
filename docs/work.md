@@ -2,8 +2,6 @@
 title: Work
 ---
 
-## Experience
-
 ### [ReversingLabs](https://reversinglabs.com)
 
 **Technical Writer / Documentation Engineer**
