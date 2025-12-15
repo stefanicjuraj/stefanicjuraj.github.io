@@ -1,0 +1,36 @@
+{
+  "id": "projects/smart-search",
+  "title": "Smart Search",
+  "description": "GitHub • Visual Studio Marketplace",
+  "source": "@site/docs/projects/smart-search.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/smart-search",
+  "permalink": "/projects/smart-search",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "vscode",
+      "permalink": "/tags/vscode"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Smart Search",
+    "tags": [
+      "vscode"
+    ],
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IT Croatia",
+    "permalink": "/projects/it-croatia"
+  },
+  "next": {
+    "title": "TechBook",
+    "permalink": "/projects/techbook"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "projects/techwordoftheday",
+  "title": "Tech Word of the Day",
+  "description": "GitHub • techwordoftheday.vercel.app",
+  "source": "@site/docs/projects/techwordoftheday.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/techwordoftheday",
+  "permalink": "/projects/techwordoftheday",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "project",
+      "permalink": "/tags/project"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Tech Word of the Day",
+    "tags": [
+      "project"
+    ],
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Commands",
+    "permalink": "/projects/markdown-commands"
+  },
+  "next": {
+    "title": "When to Post Online",
+    "permalink": "/projects/whentopostonline"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "projects/techbook",
+  "title": "TechBook",
+  "description": "GitHub • techbook.digital",
+  "source": "@site/docs/projects/techbook.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/techbook",
+  "permalink": "/projects/techbook",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "project",
+      "permalink": "/tags/project"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "TechBook",
+    "tags": [
+      "project"
+    ],
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Smart Search",
+    "permalink": "/projects/smart-search"
+  },
+  "next": {
+    "title": "Changelog World",
+    "permalink": "/projects/changelog-world"
+  }
+}

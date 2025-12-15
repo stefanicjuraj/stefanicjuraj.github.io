@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Juraj Štefanić Blog</title>
+        <link>https://stefanicjuraj.github.io/blog</link>
+        <description>Juraj Štefanić Blog</description>
+        <lastBuildDate>Mon, 15 Dec 2025 23:20:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Benchmarking Docusaurus OpenAPI Plugins]]></title>
+            <link>https://stefanicjuraj.github.io/blog/benchmarking-docusaurus-openapi-plugin</link>
+            <guid>https://stefanicjuraj.github.io/blog/benchmarking-docusaurus-openapi-plugin</guid>
+            <pubDate>Mon, 15 Dec 2025 23:20:37 GMT</pubDate>
+            <description><![CDATA[When maintaining developer documentation with tens, hundreds, or even thousands of API endpoints, performance becomes critical. To better understand how different OpenAPI plugins for Docusaurus handle large and small documentation sets, I ran a series of benchmarks comparing their ease of integration, build times, client-side performance, and rendering behavior.]]></description>
+            <content:encoded><![CDATA[<p>When maintaining developer documentation with tens, hundreds, or even thousands of API endpoints, performance becomes critical. To better understand how different OpenAPI plugins for Docusaurus handle large and small documentation sets, I ran a series of benchmarks comparing their ease of integration, build times, client-side performance, and rendering behavior.</p>
+<p>Benchmarking plugins under these different conditions helps identify which ones maintain performance at scale. It helps spot potential bottlenecks early and choose a plugin that will remain reliable as the content expands.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="plugins">Plugins<a href="https://stefanicjuraj.github.io/blog/benchmarking-docusaurus-openapi-plugin#plugins" class="hash-link" aria-label="Direct link to Plugins" title="Direct link to Plugins">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="redocusaurus"><a href="https://github.com/rohit-gohri/redocusaurus" target="_blank" rel="noopener noreferrer">redocusaurus</a><a href="https://stefanicjuraj.github.io/blog/benchmarking-docusaurus-openapi-plugin#redocusaurus" class="hash-link" aria-label="Direct link to redocusaurus" title="Direct link to redocusaurus">​</a></h3>
+<p>Redocusaurus is a preset for Docusaurus to help you integrate OpenAPI documentation via Redoc.</p>
+<p>Redocusaurus delivered consistent build performance across all documentation sizes, handling larger sets without a steep drop in speed. Its integration process was straightforward, requiring minimal adjustments to fit into an existing Docusaurus setup. While initial page load performance could be improved, the plugin’s balance of stability, reasonable build times, and ease of configuration makes it a practical option for teams seeking reliable OpenAPI integration without extensive setup overhead.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="openapi-docs"><a href="https://github.com/PaloAltoNetworks/docusaurus-openapi-docs" target="_blank" rel="noopener noreferrer">openapi-docs</a><a href="https://stefanicjuraj.github.io/blog/benchmarking-docusaurus-openapi-plugin#openapi-docs" class="hash-link" aria-label="Direct link to openapi-docs" title="Direct link to openapi-docs">​</a></h3>
+<p>The docusaurus-plugin-openapi-docs package extends the Docusaurus CLI with commands for generating MDX using the OpenAPI specification as the source. The resulting MDX is fully compatible with plugin-content-docs and can be used to render beautiful reference API docs when combined with the docusaurus-theme-openapi-docs theme.</p>
+<p>Openapi-docs offered strong compatibility with Docusaurus and provided extensive integration capabilities, making it well suited for complex documentation projects with advanced requirements. However, it recorded the slowest build times in this comparison, particularly with large documentation sets. This trade-off suggests that it is best suited for projects where rich feature support and flexibility are more important than build speed.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="scalardocusaurus"><a href="https://github.com/scalar/scalar/tree/main/integrations/docusaurus" target="_blank" rel="noopener noreferrer">scalar@docusaurus</a><a href="https://stefanicjuraj.github.io/blog/benchmarking-docusaurus-openapi-plugin#scalardocusaurus" class="hash-link" aria-label="Direct link to scalardocusaurus" title="Direct link to scalardocusaurus">​</a></h3>
+<p>Scalar achieved the fastest build times in all tested scenarios, maintaining quick performance even with large documentation sets. Integration was straightforward, and the plugin produced clean, usable API documentation without requiring much additional configuration. Its performance advantage makes it a strong choice for projects where short iteration cycles and rapid rebuilds are a priority, though it offers fewer built-in customization options compared to more feature-heavy alternatives.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="documentation-sets">Documentation sets<a href="https://stefanicjuraj.github.io/blog/benchmarking-docusaurus-openapi-plugin#documentation-sets" class="hash-link" aria-label="Direct link to Documentation sets" title="Direct link to Documentation sets">​</a></h2>
+<ul>
+<li><strong>Small set</strong>: 10 API endpoints</li>
+<li><strong>Medium set</strong>: 100 API endpoints</li>
+<li><strong>Large set</strong>: 1000 API endpoints</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="environment">Environment<a href="https://stefanicjuraj.github.io/blog/benchmarking-docusaurus-openapi-plugin#environment" class="hash-link" aria-label="Direct link to Environment" title="Direct link to Environment">​</a></h2>
+<ul>
+<li><strong>Hardware</strong>: MacBook Pro (Apple M1 Pro, 32 GB RAM)</li>
+<li><strong>Node.js</strong>: v20.12.2</li>
+<li><strong>Docusaurus</strong>: v3.3.2, @docusaurus/faster</li>
+<li><strong>Benchmark method</strong>: Measured wall-clock time using the shell <code>time</code> command.<!-- -->
+<ul>
+<li>npm builds: <code>time npm run build</code></li>
+<li>Deno builds: <code>time deno task build</code></li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="metrics">Metrics<a href="https://stefanicjuraj.github.io/blog/benchmarking-docusaurus-openapi-plugin#metrics" class="hash-link" aria-label="Direct link to Metrics" title="Direct link to Metrics">​</a></h2>
+<p>These are the metrics I used to evaluate the plugins. They are not necessarily mutually exclusive, but I tried to keep them as independent as possible.</p>
+<table><thead><tr><th style="text-align:left">Metric</th><th style="text-align:left">Description</th></tr></thead><tbody><tr><td style="text-align:left"><strong>Build time</strong> (small set)</td><td style="text-align:left">Time to generate the full static site from source using a minimal documentation set, no cache present.</td></tr><tr><td style="text-align:left"><strong>Build time</strong> (medium set)</td><td style="text-align:left">Time to rebuild the site with a minimal documentation set using cached files.</td></tr><tr><td style="text-align:left"><strong>Build time</strong> (large set)</td><td style="text-align:left">Time to generate the full static site from source using a large documentation set, no cache present.</td></tr><tr><td style="text-align:left"><strong>Integration</strong></td><td style="text-align:left">Number of steps and adjustments needed to make the plugin work with an existing Docusaurus project.</td></tr><tr><td style="text-align:left"><strong>Loading</strong></td><td style="text-align:left">Time for the first page load after build.</td></tr><tr><td style="text-align:left"><strong>Configuration</strong></td><td style="text-align:left">Whether extra setup was necessary beyond basic installation (e.g. theme, customizations, etc.).</td></tr><tr><td style="text-align:left"><strong>UX / UI</strong></td><td style="text-align:left">How the plugin looks and feels in terms of design, layout, and usability.</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="results">Results<a href="https://stefanicjuraj.github.io/blog/benchmarking-docusaurus-openapi-plugin#results" class="hash-link" aria-label="Direct link to Results" title="Direct link to Results">​</a></h2>
+<table><thead><tr><th style="text-align:left">Plugin</th><th style="text-align:left">Build time (S)</th><th style="text-align:left">Build time (M)</th><th style="text-align:left">Build time (L)</th><th style="text-align:left">Integration</th><th style="text-align:center">Loading</th><th style="text-align:left">Configuration</th><th style="text-align:left">UX / UI</th></tr></thead><tbody><tr><td style="text-align:left"><a href="https://github.com/rohit-gohri/redocusaurus" target="_blank" rel="noopener noreferrer">redocusaurus</a></td><td style="text-align:left">2m 15s</td><td style="text-align:left">3m 15s</td><td style="text-align:left">5m 30s</td><td style="text-align:left">&lt; 5</td><td style="text-align:center">❌</td><td style="text-align:left">✅</td><td style="text-align:left">6/10</td></tr><tr><td style="text-align:left"><a href="https://github.com/PaloAltoNetworks/docusaurus-openapi-docs" target="_blank" rel="noopener noreferrer">openapi-docs</a></td><td style="text-align:left">5m 10s</td><td style="text-align:left">8m 30s</td><td style="text-align:left">15m 30s</td><td style="text-align:left">&gt; 20</td><td style="text-align:center">✅</td><td style="text-align:left">✅</td><td style="text-align:left">8/10</td></tr><tr><td style="text-align:left"><a href="https://github.com/scalar/scalar/tree/main/integrations/docusaurus" target="_blank" rel="noopener noreferrer">scalar@docusaurus</a></td><td style="text-align:left">1m 10s</td><td style="text-align:left">2m 15s</td><td style="text-align:left">4m 30s</td><td style="text-align:left">&lt; 5</td><td style="text-align:center">❌</td><td style="text-align:left">❌</td><td style="text-align:left">8/10</td></tr></tbody></table>
+<p>Across the tested plugins, build performance varies significantly depending on the size of the documentation set. Scalar delivers the fastest builds overall, making it a strong choice for projects where short iteration cycles are a priority. Redocusaurus offered a balance between speed and ease of setup, performing reliably with both small and large sets. Openapi-docs produced the slowest builds in this comparison but provided comprehensive integration capabilities and strong compatibility with Docusaurus features. The results suggest that the optimal choice depends on whether build speed, integration flexibility, or feature completeness is the primary requirement.</p>
+<p>These benchmarks aim to provide practical guidance for technical writers, developers, and documentation teams evaluating Docusaurus OpenAPI plugins.</p>]]></content:encoded>
+            <category>docusaurus</category>
+        </item>
+        <item>
+            <title><![CDATA[The Cost of Not Opening Your Editor]]></title>
+            <link>https://stefanicjuraj.github.io/blog/the-cost-of-not-opening-your-editor</link>
+            <guid>https://stefanicjuraj.github.io/blog/the-cost-of-not-opening-your-editor</guid>
+            <pubDate>Mon, 15 Dec 2025 23:20:24 GMT</pubDate>
+            <description><![CDATA[Lately, I have been creating my own smaller applications to solve specific problems, instead of paying for products that either overcharge or overcomplicate simple tasks.]]></description>
+            <content:encoded><![CDATA[<p>Lately, I have been creating my own smaller applications to solve specific problems, instead of paying for products that either overcharge or overcomplicate simple tasks.</p>
+<p>With the recent development of AI tools, and a lot of people vibe coding quick applications, there are now many tiny tools with insane pricing, wrapped in subscriptions, hidden data flows, and limited transparency often doing one or two things you could build yourself in a few hours.</p>
+<p>Whenever possible, I try to follow the <a href="https://stephango.com/file-over-app" target="_blank" rel="noopener noreferrer">file-over-app</a> philosophy: using a file that you own, store locally, and version yourself, instead of relying on external applications to manage it for you.</p>
+<p>It's not just about saving money, it's about knowing exactly where your data goes, how your logic works, and avoiding adding another unknown dependency into your workflow.</p>
+<p>I read this on a blog post somewhere and it resonated with me:</p>
+<blockquote>
+<p>"At some point, you're not paying for the product, you're paying to not open your code editor."</p>
+</blockquote>
+<hr>
+<iframe src="https://stephango.com/file-over-app" width="100%" height="600" frameborder="0"></iframe>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vibe Coding]]></title>
+            <link>https://stefanicjuraj.github.io/blog/vibe-coding</link>
+            <guid>https://stefanicjuraj.github.io/blog/vibe-coding</guid>
+            <pubDate>Mon, 15 Dec 2025 23:20:12 GMT</pubDate>
+            <description><![CDATA[Vibe coding is gradually moving from weekend experiments to actual product development workflows. The more I see it used in real projects, the more obvious it becomes how rarely security is part of that conversation.]]></description>
+            <content:encoded><![CDATA[<p>Vibe coding is gradually moving from weekend experiments to actual product development workflows. The more I see it used in real projects, the more obvious it becomes how rarely security is part of that conversation.</p>
+<p>I’ve been vibe coding to develop parts of my projects, not the whole thing, but enough to see where it helps and where it introduces risk.</p>
+<p>When you are in a flow where you are just asking for what you need (“add auth”, “fix this error”, “generate backend”), it’s easy to skip over the things that aren’t visible. You’re not thinking about how user input is sanitized, whether error handling is robust, or if sensitive routes are protected. You don’t always check how database queries are constructed, whether default settings expose ports or data, or what access controls are missing.</p>
+<p>These are not things the LLM models will always surface, and they’re not things you’ll catch if you’re focused only on the immediate output. You get working code, but the deeper assumptions behind it — how it handles edge cases, what it trusts by default, or what gets logged can go unnoticed.</p>
+<p>The issue isn’t that AI-generated code is always insecure. It’s that vibe coding workflows make it harder to notice when something is insecure. The more abstracted the process becomes, the more invisible those decisions are.</p>
+<iframe width="80%" height="500" src="https://www.reversinglabs.com/blog/vibe-coding-what-autonomous-code-means-for-appsec" title="Vibe coding: What automating development means for AppSec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[em dash (—), en dash (–), or hyphen (-)]]></title>
+            <link>https://stefanicjuraj.github.io/blog/em-dash-en-dash-or-hyphen</link>
+            <guid>https://stefanicjuraj.github.io/blog/em-dash-en-dash-or-hyphen</guid>
+            <pubDate>Mon, 15 Dec 2025 23:20:03 GMT</pubDate>
+            <description><![CDATA[Apparently, using an em dash (—), en dash (–), or hyphen (-) in a text is now used to classify it as AI-written.]]></description>
+            <content:encoded><![CDATA[<p>Apparently, using an em dash (—), en dash (–), or hyphen (-) in a text is now used to classify it as AI-written.</p>
+<p>I’ve been using em dashes for a long time — almost in every post I write. They help structure a sentence without breaking the flow by adding rhythm, clarity, and precision when used intentionally. Sometimes a comma feels too weak, and a period too final.</p>
+<p>And although I agree that many AI-generated texts tend to overuse or misuse punctuation, it feels odd to instantly flag something so natural and useful as artificial. Writing styles vary. People think and write in different rhythms, and punctuation helps reflect that.</p>
+<blockquote>
+<p>"Language doesn’t exist to oppress us — it exists to promote the clarity of expression."</p>
+</blockquote>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/Bd8r7LUiUJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Modern Web Applications]]></title>
+            <link>https://stefanicjuraj.github.io/blog/modern-web-applications</link>
+            <guid>https://stefanicjuraj.github.io/blog/modern-web-applications</guid>
+            <pubDate>Mon, 15 Dec 2025 23:19:46 GMT</pubDate>
+            <description><![CDATA[As someone who just recently started being involved in creating and tinkering with a lot of modern full stack web applications, I found this post by Andrej Karpathy spot-on.]]></description>
+            <content:encoded><![CDATA[<p>As someone who just recently started being involved in creating and tinkering with a lot of modern full stack web applications, I found this post by Andrej Karpathy spot-on.</p>
+<img src="https://stefanicjuraj.github.io/img/web-apps-andrej-karpathy.jpeg" width="70%" alt="Reality of building modern web apps">
+<p>When I committed fully into this, I was expecting (hoping) there to be an "out of the box" solution that would unite most of the tech stack needed to build a full stack web application: frontend, backend, database, authentication, deployment, CI/CD, hosting, analytics, monitoring, etc. Something opinionated enough to work together smoothly, but flexible enough not to get in the way. Instead, what you find is a loosely connected collection of services, libraries, and platforms, each solving a specific part, but requiring you to stitch everything together yourself.</p>
+<p>What stands out the most is that once you start developing a full stack web application, the focus quickly shifts from coding to orchestrating. You’re suddenly not writing code anymore, but managing infrastructure, configurations, connections, and integrating services that don’t always work well together. Every small decision comes with a cascade of tradeoffs, options, and moving parts.</p>
+<p>To add on, for most of these services you need to create separate accounts, connect them manually, read through the documentation, and maintain each integration individually. It’s rarely a one-time setup. APIs change, tokens expire, limits get hit, or logs need to be tracked down across dashboards. It's not just development anymore, it's constant context switching between platforms, each with its own UI, terminology, and behavior.</p>
+<p>One small deviation from a “getting started” guide, and you’re deep in the internals of something you didn’t plan to learn that day. Most of the time, the issues aren’t even bugs, they’re misalignments between tools that weren’t built to work together by default.</p>
+<p>None of these pieces are especially difficult in isolation. But connecting them, handling environment configuration, dealing with production errors, and maintaining reliability across updates takes more time and energy than expected.</p>
+<p>Whoever solves this for both humans and AIs will unlock serious momentum.</p>
+<img src="https://stefanicjuraj.github.io/img/web-apps-technologies.png" width="70%" alt="Reality of building modern web apps">]]></content:encoded>
+        </item>
+    </channel>
+</rss>

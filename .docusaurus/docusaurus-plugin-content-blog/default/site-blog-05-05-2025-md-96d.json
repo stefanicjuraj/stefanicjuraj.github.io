@@ -1,0 +1,25 @@
+{
+  "permalink": "/blog/the-cost-of-not-opening-your-editor",
+  "source": "@site/blog/05-05-2025.md",
+  "title": "The Cost of Not Opening Your Editor",
+  "description": "Lately, I have been creating my own smaller applications to solve specific problems, instead of paying for products that either overcharge or overcomplicate simple tasks.",
+  "date": "2025-12-15T23:20:24.000Z",
+  "tags": [],
+  "readingTime": 0.86,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "The Cost of Not Opening Your Editor",
+    "slug": "the-cost-of-not-opening-your-editor",
+    "sidebar_position": 1
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Benchmarking Docusaurus OpenAPI Plugins",
+    "permalink": "/blog/benchmarking-docusaurus-openapi-plugin"
+  },
+  "nextItem": {
+    "title": "Vibe Coding",
+    "permalink": "/blog/vibe-coding"
+  }
+}

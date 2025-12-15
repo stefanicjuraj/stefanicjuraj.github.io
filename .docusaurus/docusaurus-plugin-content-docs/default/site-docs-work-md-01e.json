@@ -1,0 +1,21 @@
+{
+  "id": "work",
+  "title": "Work",
+  "description": "ReversingLabs",
+  "source": "@site/docs/work.md",
+  "sourceDirName": ".",
+  "slug": "/work",
+  "permalink": "/work",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Work"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Now",
+    "permalink": "/now"
+  }
+}

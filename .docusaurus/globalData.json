@@ -1,0 +1,108 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "index",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "now",
+              "path": "/now",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/better-markdown-tables",
+              "path": "/projects/better-markdown-tables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/changelog",
+              "path": "/projects/changelog-world",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/docs2llms",
+              "path": "/projects/docs2llms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/index",
+              "path": "/projects/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/it-croatia",
+              "path": "/projects/it-croatia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/json-visualizer",
+              "path": "/projects/json-visualizer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/markdown-commands",
+              "path": "/projects/markdown-commands",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/skillsets",
+              "path": "/projects/skillsets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/smart-search",
+              "path": "/projects/smart-search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/techbook",
+              "path": "/projects/techbook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/techwordoftheday",
+              "path": "/projects/techwordoftheday",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/uhc",
+              "path": "/projects/uhc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/whentopostonline",
+              "path": "/projects/whentopostonline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "work",
+              "path": "/work",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

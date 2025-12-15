@@ -1,0 +1,29 @@
+{
+  "permalink": "/blog/benchmarking-docusaurus-openapi-plugin",
+  "source": "@site/blog/15-08-2025.md",
+  "title": "Benchmarking Docusaurus OpenAPI Plugins",
+  "description": "When maintaining developer documentation with tens, hundreds, or even thousands of API endpoints, performance becomes critical. To better understand how different OpenAPI plugins for Docusaurus handle large and small documentation sets, I ran a series of benchmarks comparing their ease of integration, build times, client-side performance, and rendering behavior.",
+  "date": "2025-12-15T23:20:37.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 3.995,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "Benchmarking Docusaurus OpenAPI Plugins",
+    "slug": "benchmarking-docusaurus-openapi-plugin",
+    "tags": [
+      "docusaurus"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "The Cost of Not Opening Your Editor",
+    "permalink": "/blog/the-cost-of-not-opening-your-editor"
+  }
+}

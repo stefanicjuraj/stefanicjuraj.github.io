@@ -1,0 +1,37 @@
+{
+  "id": "projects/it-croatia",
+  "title": "IT Croatia",
+  "description": "GitHub • it-croatia.com",
+  "source": "@site/docs/projects/it-croatia.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/it-croatia",
+  "permalink": "/projects/it-croatia",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "project",
+      "permalink": "/tags/project"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "IT Croatia",
+    "slug": "it-croatia",
+    "tags": [
+      "project"
+    ],
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projects",
+    "permalink": "/projects/"
+  },
+  "next": {
+    "title": "Smart Search",
+    "permalink": "/projects/smart-search"
+  }
+}

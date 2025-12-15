@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/modern-web-applications",
+  "source": "@site/blog/10-04-2025.md",
+  "title": "Modern Web Applications",
+  "description": "As someone who just recently started being involved in creating and tinkering with a lot of modern full stack web applications, I found this post by Andrej Karpathy spot-on.",
+  "date": "2025-12-15T23:19:46.000Z",
+  "tags": [],
+  "readingTime": 1.75,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "Modern Web Applications",
+    "slug": "modern-web-applications",
+    "sidebar_position": 1
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "em dash (—), en dash (–), or hyphen (-)",
+    "permalink": "/blog/em-dash-en-dash-or-hyphen"
+  }
+}

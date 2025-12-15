@@ -1,0 +1,42 @@
+{
+  "id": "projects/json-visualizer",
+  "title": "JSON Visualizer",
+  "description": "GitHub • view-json.vercel.app",
+  "source": "@site/docs/projects/json-visualizer.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/json-visualizer",
+  "permalink": "/projects/json-visualizer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "json",
+      "permalink": "/tags/json"
+    },
+    {
+      "inline": true,
+      "label": "project",
+      "permalink": "/tags/project"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "JSON Visualizer",
+    "tags": [
+      "json",
+      "project"
+    ],
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "When to Post Online",
+    "permalink": "/projects/whentopostonline"
+  },
+  "next": {
+    "title": "docs2llms",
+    "permalink": "/projects/docs2llms"
+  }
+}

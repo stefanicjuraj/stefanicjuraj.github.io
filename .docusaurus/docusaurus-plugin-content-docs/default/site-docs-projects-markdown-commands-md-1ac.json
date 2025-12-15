@@ -1,0 +1,42 @@
+{
+  "id": "projects/markdown-commands",
+  "title": "Markdown Commands",
+  "description": "GitHub • Visual Studio Marketplace",
+  "source": "@site/docs/projects/markdown-commands.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/markdown-commands",
+  "permalink": "/projects/markdown-commands",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "markdown",
+      "permalink": "/tags/markdown"
+    },
+    {
+      "inline": true,
+      "label": "project",
+      "permalink": "/tags/project"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Markdown Commands",
+    "tags": [
+      "markdown",
+      "project"
+    ],
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Better Markdown Tables",
+    "permalink": "/projects/better-markdown-tables"
+  },
+  "next": {
+    "title": "Tech Word of the Day",
+    "permalink": "/projects/techwordoftheday"
+  }
+}

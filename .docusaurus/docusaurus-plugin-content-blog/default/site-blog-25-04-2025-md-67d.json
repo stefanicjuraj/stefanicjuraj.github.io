@@ -1,0 +1,25 @@
+{
+  "permalink": "/blog/vibe-coding",
+  "source": "@site/blog/25-04-2025.md",
+  "title": "Vibe Coding",
+  "description": "Vibe coding is gradually moving from weekend experiments to actual product development workflows. The more I see it used in real projects, the more obvious it becomes how rarely security is part of that conversation.",
+  "date": "2025-12-15T23:20:12.000Z",
+  "tags": [],
+  "readingTime": 1.235,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "Vibe Coding",
+    "slug": "vibe-coding",
+    "sidebar_position": 1
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "The Cost of Not Opening Your Editor",
+    "permalink": "/blog/the-cost-of-not-opening-your-editor"
+  },
+  "nextItem": {
+    "title": "em dash (—), en dash (–), or hyphen (-)",
+    "permalink": "/blog/em-dash-en-dash-or-hyphen"
+  }
+}

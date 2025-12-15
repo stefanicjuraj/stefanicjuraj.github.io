@@ -1,0 +1,27 @@
+{
+  "id": "now",
+  "title": "Now",
+  "description": "",
+  "source": "@site/docs/now.md",
+  "sourceDirName": ".",
+  "slug": "/now",
+  "permalink": "/now",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Now",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UHC Server",
+    "permalink": "/projects/uhc"
+  },
+  "next": {
+    "title": "Work",
+    "permalink": "/work"
+  }
+}
