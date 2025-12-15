@@ -75,10 +75,9 @@ th {
 }
 
 nav[aria-label="Docs sidebar"] {
-  border-right: 0.5px solid var(--ifm-color-primary);
-  font-size: 15px;
+  border-right: 0px;
 }
 
 nav[aria-label="Main"] {
-  border-bottom: 0.5px solid var(--ifm-color-primary);
+  border-bottom: 0px;
 }
