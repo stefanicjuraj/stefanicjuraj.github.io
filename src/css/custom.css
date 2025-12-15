@@ -24,8 +24,8 @@
 }
 
 @font-face {
-  font-family: "CommitMono";
-  src: url("/fonts/CommitMono-400-Regular.otf") format("truetype");
+  font-family: "Geist";
+  src: url("/fonts/Geist-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -35,7 +35,7 @@ body,
 h1,
 h2,
 h3 {
-  font-family: "CommitMono", monospace;
+  font-family: "Geist", monospace;
 }
 
 html[data-theme="dark"] {
