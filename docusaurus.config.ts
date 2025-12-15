@@ -50,6 +50,19 @@ const config: Config = {
   themeConfig: {
     navbar: {
       title: "Juraj Štefanić",
+      items: [
+        {
+          type: "doc",
+          docId: "work",
+          position: "left",
+          label: "Work",
+        },
+        {
+          to: "/blog",
+          position: "left",
+          label: "Blog",
+        },
+      ],
     },
     prism: {
       theme: prismThemes.github,
