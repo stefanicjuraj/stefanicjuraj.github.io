@@ -1,6 +1,5 @@
 ---
 title: docs2llms
-slug: docs2llms
 tags: [documentation, deno, project]
 sidebar_position: 11
 ---
