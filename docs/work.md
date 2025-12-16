@@ -30,4 +30,4 @@ title: Work
 
 **Software Engineer**
 
-> April 2021 - February 2022
+> March 2021 - February 2022
