@@ -5,3 +5,5 @@ sidebar_position: 8
 ---
 
 [**GitHub**](https://github.com/stefanicjuraj/techwordoftheday) • [**techwordoftheday.vercel.app**](https://techwordoftheday.vercel.app/)
+
+Daily tech word with definition.
