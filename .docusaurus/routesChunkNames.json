@@ -1,246 +1,158 @@
 {
-  "/blog-521": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "b63b5cdb"
-      },
-      {
-        "content": "baf64bc7"
-      },
-      {
-        "content": "7d88b9d1"
-      },
-      {
-        "content": "70640881"
-      },
-      {
-        "content": "c97cb041"
-      }
-    ],
-    "__props": "c15d9823"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
   },
-  "/blog/archive-182": {
-    "__comp": "9e4087bc",
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "36994c47"
-    },
-    "__props": "f81c1134"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
   },
-  "/blog/authors-0b7": {
-    "__comp": "621db11d",
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "sidebar": "814f3328",
-    "__props": "ef8b811a"
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
   },
-  "/blog/authors/jurajstefanic-ac5": {
-    "__comp": "33fc5bb8",
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "items": [],
-    "sidebar": "814f3328",
-    "__props": "b63186ff"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
   },
-  "/blog/benchmarking-docusaurus-openapi-plugin-459": {
-    "__comp": "ccc49370",
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "70ba9b39"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
   },
-  "/blog/em-dash-en-dash-or-hyphen-01f": {
-    "__comp": "ccc49370",
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "5d3c71cb"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
   },
-  "/blog/modern-web-applications-5d8": {
-    "__comp": "ccc49370",
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "20233109"
-  },
-  "/blog/tags-287": {
-    "__comp": "01a85c17",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "3a2db09e"
-  },
-  "/blog/tags/docusaurus-91b": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "b63b5cdb"
-      }
-    ],
-    "__props": "3217192f"
-  },
-  "/blog/the-cost-of-not-opening-your-editor-356": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "96dac81b"
-  },
-  "/blog/vibe-coding-4e0": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "67d20012"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
   },
   "/-524": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---aba-d70"
     }
   },
   "/-ccd": {
-    "__comp": "a7bd4aaa",
-    "__props": "22dd74f7"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
   },
   "/tags-ce1": {
-    "__comp": "3720c009",
-    "__props": "59af61a6"
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---tags-59-a-1ee"
   },
   "/tags/changelog-bc9": {
-    "__comp": "df203c0f",
-    "__props": "26cb95a8"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-changelog-26-c-93b"
   },
   "/tags/deno-f24": {
-    "__comp": "df203c0f",
-    "__props": "eced519f"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-denoece-d48"
   },
   "/tags/documentation-9e6": {
-    "__comp": "df203c0f",
-    "__props": "bf87ce40"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-documentationbf-8-afe"
   },
   "/tags/json-cef": {
-    "__comp": "df203c0f",
-    "__props": "3d532566"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-json-3-d-5-5f1"
   },
   "/tags/markdown-6c6": {
-    "__comp": "df203c0f",
-    "__props": "c87825ea"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-markdownc-87-f95"
   },
   "/tags/minecraft-ed9": {
-    "__comp": "df203c0f",
-    "__props": "99a52423"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-minecraft-99-a-77a"
   },
   "/tags/project-c42": {
-    "__comp": "df203c0f",
-    "__props": "1bfc63bb"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-project-1-bf-b1e"
   },
   "/tags/vscode-ad2": {
-    "__comp": "df203c0f",
-    "__props": "2251c26a"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-vscode-225-31b"
   },
   "/-590": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/now-280": {
-    "__comp": "17896441",
-    "content": "192c052a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---now-192-4f8"
   },
   "/projects/-796": {
-    "__comp": "17896441",
-    "content": "e1f8e919"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-e-1-f-a48"
   },
   "/projects/better-markdown-tables-88c": {
-    "__comp": "17896441",
-    "content": "164a0e63"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-better-markdown-tables-164-18d"
   },
   "/projects/changelog-world-298": {
-    "__comp": "17896441",
-    "content": "5008188f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-changelog-world-500-80c"
   },
   "/projects/docs2llms-600": {
-    "__comp": "17896441",
-    "content": "6140a31f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-docs-2-llms-614-963"
   },
   "/projects/it-croatia-3b3": {
-    "__comp": "17896441",
-    "content": "6a269552"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-it-croatia-6-a-2-fdf"
   },
   "/projects/json-visualizer-b38": {
-    "__comp": "17896441",
-    "content": "99a7a716"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-json-visualizer-99-a-deb"
   },
   "/projects/markdown-commands-a7e": {
-    "__comp": "17896441",
-    "content": "1ac64112"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-markdown-commands-1-ac-107"
   },
   "/projects/skillsets-69b": {
-    "__comp": "17896441",
-    "content": "4de9efca"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-skillsets-4-de-33f"
   },
   "/projects/smart-search-345": {
-    "__comp": "17896441",
-    "content": "1990b765"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-smart-search-199-3b0"
   },
   "/projects/techbook-9d6": {
-    "__comp": "17896441",
-    "content": "e4448345"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-techbooke-44-331"
   },
   "/projects/techwordoftheday-e2d": {
-    "__comp": "17896441",
-    "content": "5ae4895f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-techwordoftheday-5-ae-e60"
   },
   "/projects/uhc-421": {
-    "__comp": "17896441",
-    "content": "de417378"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-uhcde-4-214"
   },
   "/projects/whentopostonline-81f": {
-    "__comp": "17896441",
-    "content": "8fc5ba48"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-whentopostonline-8-fc-afb"
   },
   "/work-89a": {
-    "__comp": "17896441",
-    "content": "01e5667c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---work-01-e-2d1"
   },
   "/-efb": {
-    "__comp": "17896441",
-    "content": "c377a04b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---c-37-d02"
   }
 }

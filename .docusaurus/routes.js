@@ -3,58 +3,38 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '521'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
     exact: true
   },
   {
-    path: '/blog/authors/jurajstefanic',
-    component: ComponentCreator('/blog/authors/jurajstefanic', 'ac5'),
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
     exact: true
   },
   {
-    path: '/blog/benchmarking-docusaurus-openapi-plugin',
-    component: ComponentCreator('/blog/benchmarking-docusaurus-openapi-plugin', '459'),
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
     exact: true
   },
   {
-    path: '/blog/em-dash-en-dash-or-hyphen',
-    component: ComponentCreator('/blog/em-dash-en-dash-or-hyphen', '01f'),
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
     exact: true
   },
   {
-    path: '/blog/modern-web-applications',
-    component: ComponentCreator('/blog/modern-web-applications', '5d8'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '91b'),
-    exact: true
-  },
-  {
-    path: '/blog/the-cost-of-not-opening-your-editor',
-    component: ComponentCreator('/blog/the-cost-of-not-opening-your-editor', '356'),
-    exact: true
-  },
-  {
-    path: '/blog/vibe-coding',
-    component: ComponentCreator('/blog/vibe-coding', '4e0'),
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
     exact: true
   },
   {
