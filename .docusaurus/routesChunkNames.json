@@ -42,51 +42,15 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/-524": {
+  "/-b13": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-ccd": {
+  "/-1a1": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
-  },
-  "/tags-ce1": {
-    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
-    "__props": "__props---tags-59-a-1ee"
-  },
-  "/tags/changelog-bc9": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-changelog-26-c-93b"
-  },
-  "/tags/deno-f24": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-denoece-d48"
-  },
-  "/tags/documentation-9e6": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-documentationbf-8-afe"
-  },
-  "/tags/json-cef": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-json-3-d-5-5f1"
-  },
-  "/tags/markdown-6c6": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-markdownc-87-f95"
-  },
-  "/tags/minecraft-ed9": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-minecraft-99-a-77a"
-  },
-  "/tags/project-c42": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-project-1-bf-b1e"
-  },
-  "/tags/vscode-ad2": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-vscode-225-31b"
   },
   "/-590": {
     "__comp": "__comp---theme-doc-roota-94-67a"

@@ -39,57 +39,12 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '524'),
+    component: ComponentCreator('/', 'b13'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'ccd'),
+        component: ComponentCreator('/', '1a1'),
         routes: [
-          {
-            path: '/tags',
-            component: ComponentCreator('/tags', 'ce1'),
-            exact: true
-          },
-          {
-            path: '/tags/changelog',
-            component: ComponentCreator('/tags/changelog', 'bc9'),
-            exact: true
-          },
-          {
-            path: '/tags/deno',
-            component: ComponentCreator('/tags/deno', 'f24'),
-            exact: true
-          },
-          {
-            path: '/tags/documentation',
-            component: ComponentCreator('/tags/documentation', '9e6'),
-            exact: true
-          },
-          {
-            path: '/tags/json',
-            component: ComponentCreator('/tags/json', 'cef'),
-            exact: true
-          },
-          {
-            path: '/tags/markdown',
-            component: ComponentCreator('/tags/markdown', '6c6'),
-            exact: true
-          },
-          {
-            path: '/tags/minecraft',
-            component: ComponentCreator('/tags/minecraft', 'ed9'),
-            exact: true
-          },
-          {
-            path: '/tags/project',
-            component: ComponentCreator('/tags/project', 'c42'),
-            exact: true
-          },
-          {
-            path: '/tags/vscode',
-            component: ComponentCreator('/tags/vscode', 'ad2'),
-            exact: true
-          },
           {
             path: '/',
             component: ComponentCreator('/', '590'),

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstefanicjuraj_github_io=self.webpackChunkstefanicjuraj_github_io||[]).push([[8121],{8070:s=>{s.exports=JSON.parse('{"tags":[{"label":"docusaurus","permalink":"/blog/tags/docusaurus","count":1}]}')}}]);

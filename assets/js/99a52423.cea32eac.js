@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstefanicjuraj_github_io=self.webpackChunkstefanicjuraj_github_io||[]).push([[7456],{7698:e=>{e.exports=JSON.parse('{"tag":{"label":"minecraft","permalink":"/tags/minecraft","allTagsPath":"/tags","count":1,"items":[{"id":"projects/uhc","title":"UHC Server","description":"Reddit","permalink":"/projects/uhc"}],"unlisted":false}}')}}]);
