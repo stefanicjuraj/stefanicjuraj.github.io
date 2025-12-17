@@ -1,6 +1,5 @@
 ---
 title: JSON Visualizer
-tags: [json, project]
 sidebar_position: 10
 ---
 

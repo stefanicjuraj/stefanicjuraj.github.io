@@ -1,6 +1,5 @@
 ---
 title: Markdown Commands
-tags: [markdown, project]
 sidebar_position: 7
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: TechBook
-tags: [project]
 sidebar_position: 3
 ---
 

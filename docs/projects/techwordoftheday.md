@@ -1,6 +1,5 @@
 ---
 title: Tech Word of the Day
-tags: [project]
 sidebar_position: 8
 ---
 

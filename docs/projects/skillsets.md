@@ -1,6 +1,5 @@
 ---
 title: SkillSets [Archived]
-tags: [project]
 sidebar_position: 5
 ---
 

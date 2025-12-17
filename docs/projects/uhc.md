@@ -1,6 +1,5 @@
 ---
 title: UHC Server
-tags: [minecraft]
 sidebar_position: 12
 ---
 

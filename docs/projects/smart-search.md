@@ -1,6 +1,5 @@
 ---
 title: Smart Search
-tags: [vscode]
 sidebar_position: 2
 ---
 

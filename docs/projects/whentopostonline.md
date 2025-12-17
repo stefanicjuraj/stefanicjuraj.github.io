@@ -1,6 +1,5 @@
 ---
 title: When to Post Online
-tags: [project]
 sidebar_position: 9
 ---
 

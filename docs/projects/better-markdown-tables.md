@@ -1,6 +1,5 @@
 ---
 title: Better Markdown Tables
-tags: [markdown, project]
 sidebar_position: 6
 ---
 
