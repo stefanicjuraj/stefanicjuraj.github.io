@@ -8,6 +8,7 @@
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
+    "deploy-manual": "npm run build && rm -rf /tmp/site-build && cp -R build /tmp/site-build && git checkout gh-pages && rm -rf * && cp -R /tmp/site-build/* . && touch .nojekyll && git add . && git commit -m \"build: deploy\" && git push origin gh-pages && git checkout main",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
