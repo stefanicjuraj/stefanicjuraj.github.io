@@ -1,0 +1,27 @@
+{
+  "id": "projects/todo",
+  "title": "todo.md",
+  "description": "GitHub",
+  "source": "@site/docs/projects/todo.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/todo",
+  "permalink": "/projects/todo",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "todo.md",
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "docs2llms",
+    "permalink": "/projects/docs2llms"
+  },
+  "next": {
+    "title": "UHC Server",
+    "permalink": "/projects/uhc"
+  }
+}

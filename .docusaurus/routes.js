@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'b13'),
+    component: ComponentCreator('/', 'c03'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '1a1'),
+        component: ComponentCreator('/', 'f90'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '590'),
+            component: ComponentCreator('/', 'ebe'),
             routes: [
               {
                 path: '/now',
@@ -118,6 +118,12 @@ export default [
               {
                 path: '/projects/techwordoftheday',
                 component: ComponentCreator('/projects/techwordoftheday', 'e2d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/projects/todo',
+                component: ComponentCreator('/projects/todo', 'e55'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
