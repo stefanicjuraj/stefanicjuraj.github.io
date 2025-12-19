@@ -7,6 +7,11 @@ sidebar_position: 11
 
 **Transform software documentation into formats optimized for use by AI and LLMs.**
 
+<img src="/img/docs2llms.gif" width="100%" alt="docs2llms" />
+
+<br />
+<br />
+
 A command-line tool built with Deno and TypeScript.
 
 Using the [llms.txt standard](https://llmstxt.org/), the tool ensures consistent text formatting for AI and LLMs by extracting software documentation from local directories or remote repositories and converting it into _llms.txt_ and _llms-full.txt_ files.

@@ -9,6 +9,8 @@ An extension for enhanced Markdown format editing with utility commands. It prov
 
 ## Tables
 
+<img src="/img/markdown-commands/table.gif" width="100%" alt="markdown commands" />
+
 ```
 /table <columns> <rows>
 ```
@@ -20,6 +22,8 @@ An extension for enhanced Markdown format editing with utility commands. It prov
 ---
 
 ## Ordered Lists
+
+<img src="/img/markdown-commands/ordered-list.gif" width="100%" alt="markdown commands" />
 
 ```
 /olist <number_of_items>
@@ -33,6 +37,8 @@ An extension for enhanced Markdown format editing with utility commands. It prov
 
 ## Unordered Lists
 
+<img src="/img/markdown-commands/unordered-list.gif" width="100%" alt="markdown commands" />
+
 ```
 /ulist <number_of_items>
 ```
@@ -45,6 +51,8 @@ An extension for enhanced Markdown format editing with utility commands. It prov
 
 ## Horizontal Rules
 
+<img src="/img/markdown-commands/horizontal-rule.gif" width="100%" alt="markdown commands" />
+
 `/hr`
 
 **Shortcut:** `Ctrl+Shift+H` (Windows/Linux) / `Cmd+Shift+H` (macOS)
@@ -54,6 +62,8 @@ An extension for enhanced Markdown format editing with utility commands. It prov
 ---
 
 ## Hyperlinks
+
+<img src="/img/markdown-commands/hyperlink.gif" width="100%" alt="markdown commands" />
 
 `/link`
 
@@ -65,6 +75,8 @@ An extension for enhanced Markdown format editing with utility commands. It prov
 
 ## Images
 
+<img src="/img/markdown-commands/image.gif" width="100%" alt="markdown commands" />
+
 `/img`
 
 **Shortcut:** `Ctrl+Shift+I` (Windows/Linux) / `Cmd+Shift+I` (macOS)
@@ -75,6 +87,8 @@ An extension for enhanced Markdown format editing with utility commands. It prov
 
 ## Code blocks
 
+<img src="/img/markdown-commands/code-block.gif" width="100%" alt="markdown commands" />
+
 `/codeblock`
 
 **Shortcut:** `Ctrl+Shift+C` (Windows/Linux) / `Cmd+Shift+C` (macOS)
@@ -84,6 +98,8 @@ An extension for enhanced Markdown format editing with utility commands. It prov
 ---
 
 ## Blockquotes
+
+<img src="/img/markdown-commands/blockquote.gif" width="100%" alt="markdown commands" />
 
 `/blockquote`
 

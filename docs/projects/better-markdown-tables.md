@@ -5,14 +5,12 @@ sidebar_position: 6
 
 [**GitHub**](https://github.com/stefanicjuraj/better-markdown-tables) • [**Visual Studio Marketplace**](https://marketplace.visualstudio.com/items?itemName=jurajstefanic.better-markdown-tables)
 
-An interactive editor for Markdown tables. The extension handles all the tedious aspects of markdown table formatting, letting you focus on your content rather than syntax.
+<img src="/img/better-markdown-tables.png" width="100%" alt="better markdown tables" />
 
-- **Visual Table Editor**: Edit tables in a user-friendly interface
-- **Create New Tables**: Generate tables from scratch with customizable dimensions
-- **Row/Column Management**: Add, remove, and manipulate table structure
-- **Drag & Drop**: Reorder rows and columns with intuitive drag-and-drop
-- **Smart Formatting**: Automatically formats tables with proper alignment
-- **CodeLens Integration**: Quick "Edit" buttons appear above existing tables
+<br />
+<br />
+
+An interactive editor for Markdown tables. The extension handles all the tedious aspects of markdown table formatting, letting you focus on your content rather than syntax.
 
 ## Usage
 

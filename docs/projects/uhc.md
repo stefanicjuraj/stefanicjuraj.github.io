@@ -5,7 +5,7 @@ sidebar_position: 12
 
 [**Reddit**](https://www.reddit.com/user/Euro-UHC/)
 
-I created a [Minecraft Ultra Hardcore (UHC)](#uhc) server in 2013 to host private and public [UHC matches](#uhc).
+I created a Minecraft Ultra Hardcore [(UHC)](#uhc) server ([EuroUHC](#eurouhc)) in 2013 to host private and public [UHC matches](#uhc).
 
 ## UHC
 
@@ -36,4 +36,6 @@ Scenario refers to specific modifications or alterations to the standard UHC gam
 
 View the full [scenario list](https://www.reddit.com/r/UHCHosts/wiki/scenario_list/)
 
-<img src="/img/eurouhc-twitter.png" width="90%" alt="EuroUHC" />
+## EuroUHC
+
+<img src="/img/eurouhc-twitter.png" alt="EuroUHC" />

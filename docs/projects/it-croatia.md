@@ -8,11 +8,6 @@ sidebar_position: 1
 
 A collection of IT companies, conferences, education, certificates, communities, places to work, podcasts, and internships in Croatia.
 
-<iframe src="https://it-croatia.com" width="100%" height="600" frameborder="0" ></iframe>
-
-<br />
-<br />
-
 I started this project in the early stages of my academic journey while exploring communities, conferences, and first job opportunities to start my career. As I entered the world of the IT industry, I decided to create a platform that could serve as a comprehensive resource for others starting (or continuing) their career paths.
 
 The process of collecting data involves a combination of automatic and manual data extraction and filtering of publicly available sources. Automatic data collection is performed using a combination of custom web scraping tools and Python scripts, while manual data collection is performed by searching for information in the public domain.

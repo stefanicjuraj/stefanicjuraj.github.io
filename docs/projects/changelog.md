@@ -6,11 +6,14 @@ sidebar_position: 4
 
 [**GitHub**](https://github.com/stefanicjuraj/changelog.world) • [**changelog.world**](https://changelog.world)
 
+<iframe src="https://changelog.world" width="100%" height="600" frameborder="0" ></iframe>
+
+<br />
+<br />
+
 Tech changelogs and release notes in a developer-friendly format. Browse through the [web interface](https://changelog.world/) or access directly through the terminal with [CLI commands](#cli).
 
 Supported: C++, Deno, Django, Expo, Express, Figma, GitHub, GitLab, Go, Java, Laravel, Next.js, Node.js, PHP, Python, Rails, React, React Native, Scala, Slack, Spring Boot, Svelte, Swift, Tailwind, Vercel, Vue.js, WordPress.
-
-<iframe src="https://changelog.world" width="100%" height="600" frameborder="0" ></iframe>
 
 ## CLI
 
