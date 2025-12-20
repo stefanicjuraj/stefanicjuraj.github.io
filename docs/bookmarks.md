@@ -5,6 +5,19 @@ sidebar_position: 5
 
 A non-exhaustive list of bookmarks I save. I do not use any browser sync services across devices, so this serves as a personal reference and backup. This list changes regularly as I discover new things.
 
+## Reading
+
+- [Reddit](https://www.reddit.com/)
+  - [r/programming](https://www.reddit.com/r/programming/)
+  - [r/webdev](https://www.reddit.com/r/webdev/)
+  - [r/technology](https://www.reddit.com/r/technology/)
+- [Hacker News](https://news.ycombinator.com/)
+- [GitHub Trending](https://github.com/trending)
+- [Medium](https://medium.com/)
+- [daily.dev](https://daily.dev/)
+- [dev.to](https://dev.to/)
+- [changelog.world](https://changelog.world/)
+
 ## Watching
 
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
