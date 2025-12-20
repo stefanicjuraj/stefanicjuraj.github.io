@@ -47,6 +47,15 @@ const config: Config = {
     ],
   ],
 
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+      },
+    ],
+  ],
+
   themeConfig: {
     navbar: {
       title: "Juraj Štefanić",
