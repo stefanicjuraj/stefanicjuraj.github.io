@@ -73,3 +73,7 @@ nav[aria-label="Docs sidebar"] {
 nav[aria-label="Main"] {
   border-bottom: 0px;
 }
+
+.markdown a {
+  text-decoration: underline;
+}
