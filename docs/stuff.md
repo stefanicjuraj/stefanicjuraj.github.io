@@ -2,6 +2,8 @@
 title: Stuff
 ---
 
+A list of the stuff I own and have used. I don't keep track of everything I own, but I try to keep a list of the most important stuff.
+
 ## Phones
 
 | Item                        | Purchased   |
