@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
 title: Index
+sidebar_position: 1
 ---
 
 # Juraj Štefanić
