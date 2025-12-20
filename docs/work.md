@@ -1,5 +1,6 @@
 ---
 title: Work
+sidebar_position: 3
 ---
 
 ### [ReversingLabs](https://reversinglabs.com)
