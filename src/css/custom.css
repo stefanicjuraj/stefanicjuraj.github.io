@@ -62,16 +62,8 @@ table {
   font-size: 13px;
 }
 
-table tr {
-  border: 0px;
-}
-
 table tr:nth-child(2n) {
   background-color: transparent;
-}
-
-th {
-  background-color: var(--ifm-color-invert);
 }
 
 nav[aria-label="Docs sidebar"] {
