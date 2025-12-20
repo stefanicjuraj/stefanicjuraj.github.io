@@ -1,0 +1,25 @@
+{
+  "id": "desk",
+  "title": "Desk",
+  "description": "This is my desk setup. I'm a software engineer and technical writer, so I need a desk to work on. I'm also a minimalist, so I don't need a lot of stuff on my desk.",
+  "source": "@site/docs/desk.md",
+  "sourceDirName": ".",
+  "slug": "/desk",
+  "permalink": "/desk",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Desk"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Now",
+    "permalink": "/now"
+  },
+  "next": {
+    "title": "Stuff",
+    "permalink": "/stuff"
+  }
+}

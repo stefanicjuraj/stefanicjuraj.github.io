@@ -1,0 +1,27 @@
+{
+  "id": "projects/sysview",
+  "title": "sysview",
+  "description": "GitHub",
+  "source": "@site/docs/projects/sysview.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/sysview",
+  "permalink": "/projects/sysview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "sysview",
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "todo.md",
+    "permalink": "/projects/todo"
+  },
+  "next": {
+    "title": "UHC Server",
+    "permalink": "/projects/uhc"
+  }
+}

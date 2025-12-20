@@ -1,0 +1,24 @@
+{
+  "permalink": "/blog/getting-started-and-quickstart-sections",
+  "source": "@site/blog/01-09-2025.md",
+  "title": "Getting started and quickstart sections",
+  "description": "There’s one recurring issue I keep noticing with many of the new tools and applications being released daily: quickstart guides, getting started sections, and basic examples are rarely quick or basic anymore.",
+  "date": "2025-12-19T14:24:56.000Z",
+  "tags": [],
+  "readingTime": 1.21,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "Getting started and quickstart sections",
+    "slug": "getting-started-and-quickstart-sections"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Ramblings",
+    "permalink": "/blog/ramblings"
+  },
+  "nextItem": {
+    "title": "Benchmarking Docusaurus OpenAPI plugins",
+    "permalink": "/blog/benchmarking-docusaurus-openapi-plugin"
+  }
+}

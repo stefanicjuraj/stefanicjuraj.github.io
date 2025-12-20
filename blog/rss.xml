@@ -4,12 +4,35 @@
         <title>Juraj Štefanić Blog</title>
         <link>https://stefanicjuraj.github.io/blog</link>
         <description>Juraj Štefanić Blog</description>
-        <lastBuildDate>Mon, 15 Dec 2025 23:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 14:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Benchmarking Docusaurus OpenAPI Plugins]]></title>
+            <title><![CDATA[Ramblings]]></title>
+            <link>https://stefanicjuraj.github.io/blog/ramblings</link>
+            <guid>https://stefanicjuraj.github.io/blog/ramblings</guid>
+            <pubDate>Fri, 19 Dec 2025 14:25:03 GMT</pubDate>
+            <description><![CDATA[I came across this idea of “ramblings” channels for remote teams. A dedicated place where each person can post thoughts, ideas, and updates without cluttering the main channels.]]></description>
+            <content:encoded><![CDATA[<p>I came across this idea of “ramblings” channels for remote teams. A dedicated place where each person can post thoughts, ideas, and updates without cluttering the main channels.</p>
+<p>I use a similar approach every day, but without a dedicated channel. Most days I jot these down as messages to myself in Slack, or in plain .txt or .md files. They might be quick progress updates, thoughts on a feature, links worth saving, or half-formed ideas that could grow into something later.</p>
+<p>It works because it keeps information flowing without needing a formal meeting or polished write-up. Small pieces of context add up over time, and those side thoughts often turn into solutions or improvements for the project.</p>
+<iframe width="100%" height="500" src="https://stephango.com/ramblings" title="If you're remote, ramble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Getting started and quickstart sections]]></title>
+            <link>https://stefanicjuraj.github.io/blog/getting-started-and-quickstart-sections</link>
+            <guid>https://stefanicjuraj.github.io/blog/getting-started-and-quickstart-sections</guid>
+            <pubDate>Fri, 19 Dec 2025 14:24:56 GMT</pubDate>
+            <description><![CDATA[There’s one recurring issue I keep noticing with many of the new tools and applications being released daily: quickstart guides, getting started sections, and basic examples are rarely quick or basic anymore.]]></description>
+            <content:encoded><![CDATA[<p>There’s one recurring issue I keep noticing with many of the new tools and applications being released daily: quickstart guides, getting started sections, and basic examples are rarely quick or basic anymore.</p>
+<p>The first experience with a new technology shouldn’t require setting up production-ready environments, creating multiple accounts, or configuring deployment pipelines just to get it running. At an early stage, you’re not looking for best practices or a hardened setup, but simply trying to understand what the tool does, how it behaves, and whether it’s worth investing more time in.</p>
+<p>The problem often starts even earlier. Too many tools don’t clearly explain what they actually do. I’ve come across product “about” sections where, after multiple reads, I still wasn’t sure what the tool was for or what problem it solved. Without that clarity, even the best quickstart section won’t help.</p>
+<p>A minimal working demo is usually enough to bridge that gap. Once the basics are clear, you can always dive deeper into advanced configurations and production-level practices. But when the entry point is already complex, the barrier to experimentation goes up, and adoption slows down.</p>
+<p>This is where technical writing and documentation play a critical role. A well-written guide isn’t just a convenience, it’s the foundation for adoption. The clearer and more approachable the entry point, the faster developers can build trust with the tool, and the more likely they are to keep going beyond the basics.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Benchmarking Docusaurus OpenAPI plugins]]></title>
             <link>https://stefanicjuraj.github.io/blog/benchmarking-docusaurus-openapi-plugin</link>
             <guid>https://stefanicjuraj.github.io/blog/benchmarking-docusaurus-openapi-plugin</guid>
             <pubDate>Mon, 15 Dec 2025 23:20:37 GMT</pubDate>
@@ -52,7 +75,7 @@
 <p>These benchmarks aim to provide practical guidance for technical writers, developers, and documentation teams evaluating Docusaurus OpenAPI plugins.</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Cost of Not Opening Your Editor]]></title>
+            <title><![CDATA[The cost of not opening your editor]]></title>
             <link>https://stefanicjuraj.github.io/blog/the-cost-of-not-opening-your-editor</link>
             <guid>https://stefanicjuraj.github.io/blog/the-cost-of-not-opening-your-editor</guid>
             <pubDate>Mon, 15 Dec 2025 23:20:24 GMT</pubDate>
@@ -69,7 +92,7 @@
 <iframe src="https://stephango.com/file-over-app" width="100%" height="600" frameborder="0"></iframe>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Vibe Coding]]></title>
+            <title><![CDATA[Vibe coding]]></title>
             <link>https://stefanicjuraj.github.io/blog/vibe-coding</link>
             <guid>https://stefanicjuraj.github.io/blog/vibe-coding</guid>
             <pubDate>Mon, 15 Dec 2025 23:20:12 GMT</pubDate>
@@ -96,7 +119,7 @@
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/Bd8r7LUiUJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Modern Web Applications]]></title>
+            <title><![CDATA[Modern web applications]]></title>
             <link>https://stefanicjuraj.github.io/blog/modern-web-applications</link>
             <guid>https://stefanicjuraj.github.io/blog/modern-web-applications</guid>
             <pubDate>Mon, 15 Dec 2025 23:19:46 GMT</pubDate>

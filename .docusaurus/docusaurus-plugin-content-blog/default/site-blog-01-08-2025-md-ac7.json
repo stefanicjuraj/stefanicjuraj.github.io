@@ -1,0 +1,20 @@
+{
+  "permalink": "/blog/ramblings",
+  "source": "@site/blog/01-08-2025.md",
+  "title": "Ramblings",
+  "description": "I came across this idea of “ramblings” channels for remote teams. A dedicated place where each person can post thoughts, ideas, and updates without cluttering the main channels.",
+  "date": "2025-12-19T14:25:03.000Z",
+  "tags": [],
+  "readingTime": 0.76,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "Ramblings",
+    "slug": "ramblings"
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Getting started and quickstart sections",
+    "permalink": "/blog/getting-started-and-quickstart-sections"
+  }
+}

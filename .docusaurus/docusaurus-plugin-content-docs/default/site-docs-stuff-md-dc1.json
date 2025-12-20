@@ -1,0 +1,23 @@
+{
+  "id": "stuff",
+  "title": "Stuff",
+  "description": "A list of the stuff I own and have used. I don't keep track of everything I own, but I try to keep a list of the most important stuff.",
+  "source": "@site/docs/stuff.md",
+  "sourceDirName": ".",
+  "slug": "/stuff",
+  "permalink": "/stuff",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Stuff",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bookmarks",
+    "permalink": "/bookmarks"
+  }
+}

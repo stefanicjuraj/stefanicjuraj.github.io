@@ -38,20 +38,31 @@ export default [
     exact: true
   },
   {
+    path: '/search',
+    component: ComponentCreator('/search', '822'),
+    exact: true
+  },
+  {
     path: '/',
-    component: ComponentCreator('/', 'c03'),
+    component: ComponentCreator('/', '8ce'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'f90'),
+        component: ComponentCreator('/', '75a'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'ebe'),
+            component: ComponentCreator('/', '502'),
             routes: [
               {
-                path: '/now',
-                component: ComponentCreator('/now', '280'),
+                path: '/bookmarks',
+                component: ComponentCreator('/bookmarks', '3dc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/cli',
+                component: ComponentCreator('/cli', 'd1b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -110,6 +121,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/projects/sysview',
+                component: ComponentCreator('/projects/sysview', 'ac2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/projects/techbook',
                 component: ComponentCreator('/projects/techbook', '9d6'),
                 exact: true,
@@ -136,6 +153,12 @@ export default [
               {
                 path: '/projects/whentopostonline',
                 component: ComponentCreator('/projects/whentopostonline', '81f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/stuff',
+                component: ComponentCreator('/stuff', 'cd5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

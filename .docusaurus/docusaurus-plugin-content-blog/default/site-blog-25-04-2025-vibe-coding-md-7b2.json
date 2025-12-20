@@ -1,0 +1,25 @@
+{
+  "permalink": "/blog/vibe-coding",
+  "source": "@site/blog/25-04-2025-vibe-coding.md",
+  "title": "Vibe Coding",
+  "description": "Vibe coding is gradually moving from weekend experiments to actual product development workflows. The more I see it used in real projects, the more obvious it becomes how rarely security is part of that conversation.",
+  "date": "2025-12-19T14:12:25.600Z",
+  "tags": [],
+  "readingTime": 1.33,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "Vibe Coding",
+    "slug": "vibe-coding",
+    "sidebar_position": 1
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Getting Started and Quickstart Sections",
+    "permalink": "/blog/getting-started-and-quickstart-sections"
+  },
+  "nextItem": {
+    "title": "Benchmarking Docusaurus OpenAPI Plugins",
+    "permalink": "/blog/benchmarking-docusaurus-openapi-plugin"
+  }
+}

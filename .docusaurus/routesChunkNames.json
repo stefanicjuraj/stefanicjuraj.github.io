@@ -42,22 +42,32 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/-c03": {
+  "/search-822": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---search-138-688"
+    }
+  },
+  "/-8ce": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-f90": {
+  "/-75a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
   },
-  "/-ebe": {
+  "/-502": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/now-280": {
+  "/bookmarks-3dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---now-192-4f8"
+    "content": "content---bookmarks-652-8ff"
+  },
+  "/cli-d1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---cli-1-a-2-3f0"
   },
   "/projects/-796": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -95,6 +105,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---projects-smart-search-199-3b0"
   },
+  "/projects/sysview-ac2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---projects-sysviewba-4-6df"
+  },
   "/projects/techbook-9d6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---projects-techbooke-44-331"
@@ -114,6 +128,10 @@
   "/projects/whentopostonline-81f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---projects-whentopostonline-8-fc-afb"
+  },
+  "/stuff-cd5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---stuffdc-1-450"
   },
   "/work-89a": {
     "__comp": "__comp---theme-doc-item-178-a40",
