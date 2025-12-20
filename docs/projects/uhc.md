@@ -1,6 +1,6 @@
 ---
 title: UHC Server
-sidebar_position: 12
+sidebar_position: 13
 ---
 
 [**Reddit**](https://www.reddit.com/user/Euro-UHC/)

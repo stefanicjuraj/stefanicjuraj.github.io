@@ -1,5 +1,5 @@
 ---
-title: Changelog World
+title: changelog.world
 slug: changelog-world
 sidebar_position: 4
 ---

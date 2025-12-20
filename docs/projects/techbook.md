@@ -1,5 +1,5 @@
 ---
-title: TechBook
+title: techbook.digital
 sidebar_position: 3
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: todo.md
-sidebar_position: 12
+sidebar_position: 11
 ---
 
 [**GitHub**](https://github.com/stefanicjuraj/todo.md)

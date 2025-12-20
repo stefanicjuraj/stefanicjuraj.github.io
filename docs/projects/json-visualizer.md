@@ -1,6 +1,6 @@
 ---
-title: JSON Visualizer
-sidebar_position: 10
+title: json-visualizer
+sidebar_position: 9
 ---
 
 [**GitHub**](https://github.com/stefanicjuraj/json-visualizer) • [**view-json.vercel.app**](https://view-json.vercel.app/)

@@ -1,16 +1,11 @@
 ---
-title: SkillSets [Archived]
-sidebar_position: 5
+title: skillsets.tech [archived]
+sidebar_position: 14
 ---
 
 [**GitHub**](https://github.com/stefanicjuraj/skillsets) • [**skillsets.tech**](https://skillsets.tech)
 
 **Discover the most wanted skills by recruiters. Browse skills required for your job position.**
-
-<iframe src="https://skillsets.tech" width="100%" height="600" frameborder="0" ></iframe>
-
-<br />
-<br />
 
 Analyzes job advertisements and extract the most in-demand skills, technologies, and tools for different IT positions.
 

@@ -1,5 +1,5 @@
 ---
-title: Smart Search
+title: smart-search
 sidebar_position: 2
 ---
 

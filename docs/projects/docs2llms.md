@@ -1,6 +1,6 @@
 ---
 title: docs2llms
-sidebar_position: 11
+sidebar_position: 10
 ---
 
 [**GitHub**](https://github.com/stefanicjuraj/docs2llms) • [**jsr.io/@jurajstefanic/docs2llms**](https://jsr.io/@jurajstefanic/docs2llms)

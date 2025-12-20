@@ -1,6 +1,6 @@
 ---
-title: Better Markdown Tables
-sidebar_position: 6
+title: better-markdown-tables
+sidebar_position: 5
 ---
 
 [**GitHub**](https://github.com/stefanicjuraj/better-markdown-tables) • [**Visual Studio Marketplace**](https://marketplace.visualstudio.com/items?itemName=jurajstefanic.better-markdown-tables)

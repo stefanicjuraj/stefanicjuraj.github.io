@@ -1,6 +1,6 @@
 ---
-title: Tech Word of the Day
-sidebar_position: 8
+title: techwordoftheday
+sidebar_position: 7
 ---
 
 [**GitHub**](https://github.com/stefanicjuraj/techwordoftheday) • [**techwordoftheday.vercel.app**](https://techwordoftheday.vercel.app/)

@@ -1,5 +1,5 @@
 ---
-title: IT Croatia
+title: it-croatia.com
 slug: it-croatia
 sidebar_position: 1
 ---
