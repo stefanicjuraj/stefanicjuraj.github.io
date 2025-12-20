@@ -6,47 +6,46 @@ title: Stuff
 
 | Item                        | Purchased   |
 | :-------------------------- | :---------- |
-| Nokia C3                    | TBA - TBA   |
-| Sony Ericsson W595          | TBA - TBA   |
-| Sony Ericsson Walkman W810i | TBA - TBA   |
-| BlackBerry Curve            | TBA - TBA   |
-| Samsung Galaxy S2           | TBA - TBA   |
-| iPhone 4                    | TBA - TBA   |
-| iPhone 5                    | TBA - TBA   |
-| iPhone 8                    | TBA - TBA   |
-| iPhone 13                   | 2022 - 2024 |
+| Nokia C3                    | 2010 - 2010 |
+| BlackBerry Curve            | 2011 - 2011 |
+| Sony Ericsson W595          | 2012 - 2012 |
+| Sony Ericsson Walkman W810i | 2012 - 2012 |
+| Samsung Galaxy S2           | 2012 - 2012 |
+| iPhone 4                    | 2013 - 2013 |
+| iPhone 5                    | 2014 - 2014 |
+| iPhone 8                    | 2015 - 2021 |
+| iPhone 13                   | 2021 - 2024 |
 | iPhone 16                   | 2024 -      |
 
 ## Computers
 
-| Item           | Chip     | OS             | Usage    | Purchased   |
-| :------------- | :------- | :------------- | :------- | :---------- |
-| Toshiba        | Intel    | Windows 7      | School   | 2010 - 2018 |
-| Macbook Pro    | Intel    | macOS Monterey | Personal | 2018 - 2022 |
-| Dell           | Intel    | Windows 11     | Work     | 2020 - 2021 |
-| Dell Precision | Intel    | Linux Fedora   | Work     | 2022 - 2025 |
-| Macbook Pro    | Apple M4 | macOS Tahoe    | Personal | 2024 -      |
-| Macbook Pro    | Apple M4 | macOS Tahoe    | Work     | 2025 -      |
+| Item           | Chip         | OS             | Usage    | Purchased   |
+| :------------- | :----------- | :------------- | :------- | :---------- |
+| Toshiba        | Intel        | Windows 7      | School   | 2010 - 2018 |
+| Macbook Pro    | Intel        | macOS Monterey | Personal | 2018 - 2022 |
+| Dell           | Intel        | Windows 11     | Work     | 2020 - 2021 |
+| Dell Precision | Intel        | Linux Fedora   | Work     | 2022 - 2025 |
+| Macbook Pro    | Apple M4     | macOS Tahoe    | Personal | 2024 -      |
+| Macbook Pro    | Apple M4 Max | macOS Tahoe    | Work     | 2025 -      |
 
 ## Game Consoles
 
-| Item                       | Purchased  |
-| :------------------------- | :--------- |
-| Nintendo Game Boy          | TBA - TBA  |
-| Nintendo Game Boy Advance  | TBA - TBA  |
-| Nintendo DS                | TBA - TBA  |
-| Nintendo 3DS               | TBA - TBA  |
-| PlayStation Portable (PSP) | TBA - TBA  |
-| PlayStation 2              | TBA - TBA  |
-| PlayStation 3              | TBA - TBA  |
-| PlayStation 4              | 2013 - TBA |
+| Item                       | Purchased   |
+| :------------------------- | :---------- |
+| Nintendo Game Boy          | 2008 - 2015 |
+| Nintendo Game Boy Advance  | 2008 - 2015 |
+| Nintendo DS                | 2008 - 2015 |
+| Nintendo 3DS               | 2011 - 2015 |
+| PlayStation Portable (PSP) | 2011 - 2015 |
+| PlayStation 2              | 2012 - 2015 |
+| PlayStation 4              | 2013 -      |
 
 ## Tablets
 
-| Item     | Purchased |
-| :------- | :-------- |
-| iPad     | TBA - TBA |
-| iPad Pro | TBA - TBA |
+| Item     | Purchased   |
+| :------- | :---------- |
+| iPad     | 2010 - 2015 |
+| iPad Pro | 2015 - 2020 |
 
 ## Monitors
 
@@ -59,12 +58,12 @@ title: Stuff
 
 ## Keyboards
 
-| Item                 | Purchased |
-| :------------------- | :-------- |
-| Razer BlackWidow     | TBA - TBA |
-| Apple Magic Keyboard | TBA - TBA |
-| Logitech             | 2021 -    |
-| RedDragon Castor     | 2024 -    |
+| Item                 | Purchased   |
+| :------------------- | :---------- |
+| Razer BlackWidow     | 2012 - 2015 |
+| Apple Magic Keyboard | 2012 - 2015 |
+| Logitech             | 2021 -      |
+| RedDragon Castor     | 2024 -      |
 
 ## Mouse
 
@@ -74,10 +73,10 @@ title: Stuff
 
 ## Audio
 
-| Item         | Purchased |
-| :----------- | :-------- |
-| Razer Kraken | TBA - TBA |
-| AirPods      | TBA - TBA |
+| Item         | Purchased   |
+| :----------- | :---------- |
+| Razer Kraken | 2012 - 2018 |
+| AirPods      | 2018 - 2025 |
 
 ## Accessories
 
