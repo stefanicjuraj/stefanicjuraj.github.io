@@ -24,8 +24,8 @@
 }
 
 @font-face {
-  font-family: "Geist";
-  src: url("/fonts/Geist-Regular.ttf") format("truetype");
+  font-family: "Google Sans Code";
+  src: url("/fonts/GoogleSansCode-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -35,7 +35,7 @@ body,
 h1,
 h2,
 h3 {
-  font-family: "Geist", monospace;
+  font-family: "Google Sans Code", monospace;
 }
 
 html[data-theme="dark"] {
