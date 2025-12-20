@@ -1,0 +1,43 @@
+---
+title: Food
+---
+
+Food that Nina and I like to make and eat. Nina is the one who does most of the cooking, and I am the one who does most of the eating. This also serves us as a reminder of what to eat when we are out of ideas.
+
+I eventually want to make an app for us that will use this list as a database to generate recipes based on the ingredients we have on hand or we feel like eating. _Coming soon..._
+
+## Breakfast
+
+| Eggs      | Bread (Toast) | Oats        | Cold cuts  |
+| --------- | ------------- | ----------- | ---------- |
+| Omelette  | Cheese        | Oatmeal     | Ham        |
+| Scrambled | Honey         | Muesli oats | Prosciutto |
+| Boiled    | Jam           | Baked oats  | Salami     |
+| Fried     | Olive oil     |             | Turkey     |
+|           | Butter        |             |            |
+
+## Brunch
+
+|                 |
+| :-------------- |
+| Cicchetti       |
+| Croque Monsieur |
+| Croque Madame   |
+|                 |
+|                 |
+
+## Lunch
+
+| Pasta            | Rice         | Potato  | Meat    | Fish   |
+| ---------------- | ------------ | ------- | ------- | ------ |
+| Bolognese        | Basmati      | Boiled  | Chicken | Salmon |
+| Carbonara        | Wild         | Fried   | Pork    | Tuna   |
+| Cream & Rosemary | Risotto      | Mashed  | Beef    |        |
+| Pesto            | Burrito bowl | Roasted | Lamb    |        |
+| Prawns           | Bulgogi      | Baked   |         |        |
+| Salmon           | Katsu        |         |         |        |
+|                  | Teriyaki     |         |         |        |
+
+## Dessert
+
+## Dinner
