@@ -42,3 +42,7 @@ mount             # mounted filesystems
 
 - [sysview](https://github.com/stefanicjuraj/sysview)
 - [todo.md](https://github.com/stefanicjuraj/todo.md)
+- [changelog.world](https://github.com/stefanicjuraj/changelog.world)
+- [docs2llms](https://github.com/stefanicjuraj/docs2llms)
+- [docsee](https://github.com/stefanicjuraj/docsee)
+- [wttr.in](https://github.com/chubin/wttr.in)
