@@ -1,0 +1,21 @@
+{
+  "id": "food",
+  "title": "Food",
+  "description": "Food that Nina and I like to make and eat. Nina is the one who does most of the cooking, and I am the one who does most of the eating. This also serves us as a reminder of what to eat when we are out of ideas.",
+  "source": "@site/docs/food.mdx",
+  "sourceDirName": ".",
+  "slug": "/food",
+  "permalink": "/food",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Food"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stuff",
+    "permalink": "/stuff"
+  }
+}
