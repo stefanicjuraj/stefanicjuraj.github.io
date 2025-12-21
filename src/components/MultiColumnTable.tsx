@@ -2,8 +2,8 @@ import React from "react";
 import "../css/MultiColumnTable.css";
 
 interface MultiColumnTableProps {
-  headers: string[];
-  rows: string[][];
+  headers: React.ReactNode[];
+  rows: React.ReactNode[][];
   rowsPerColumn?: number;
 }
 
@@ -12,7 +12,7 @@ export default function MultiColumnTable({
   rows,
   rowsPerColumn = 10,
 }: MultiColumnTableProps) {
-  const columns: string[][][] = [];
+  const columns: React.ReactNode[][][] = [];
 
   for (let i = 0; i < rows.length; i += rowsPerColumn) {
     columns.push(rows.slice(i, i + rowsPerColumn));
@@ -43,4 +43,3 @@ export default function MultiColumnTable({
     </div>
   );
 }
-
