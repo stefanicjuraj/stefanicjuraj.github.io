@@ -50,3 +50,6 @@ A non-exhaustive list of bookmarks I save. I do not use any browser sync service
 - [Van Neistat](https://www.youtube.com/@vanneistat)
 - [Vsauce](https://www.youtube.com/@Vsauce)
 - [Web Dev Cody](https://www.youtube.com/@WebDevCody)
+
+## [CLI Tools](./cli.md#tools)
+
