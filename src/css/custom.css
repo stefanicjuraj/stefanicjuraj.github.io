@@ -55,7 +55,13 @@ p > a {
 }
 
 article {
-  padding: 32px;
+  padding: 24px;
+}
+
+@media (max-width: 768px) {
+  article {
+    padding: 16px;
+  }
 }
 
 table {
