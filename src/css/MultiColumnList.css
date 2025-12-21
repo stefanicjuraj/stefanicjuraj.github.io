@@ -1,0 +1,27 @@
+.multi-column-list {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  .multi-column-list {
+    gap: 0rem;
+  }
+}
+
+.multi-column-list__column {
+  list-style: disc;
+  margin: 0;
+  padding-left: 1.5rem;
+  min-width: 0;
+}
+
+.multi-column-list__column li {
+  margin-bottom: 0.5rem;
+}
+
+.multi-column-list__column li:last-child {
+  margin-bottom: 0;
+}
+
