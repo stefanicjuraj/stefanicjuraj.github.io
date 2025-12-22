@@ -46,6 +46,10 @@ html {
   background-color: #fefefe;
 }
 
+p {
+  font-size: 15px;
+}
+
 p > a {
   text-decoration: underline;
 }
