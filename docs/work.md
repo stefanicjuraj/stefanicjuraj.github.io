@@ -9,9 +9,9 @@ sidebar_position: 3
 
 > April 2023 - Present
 
-At ReversingLabs, my work revolves around building and maintaining a large-scale documentation platform for complex cybersecurity products. I develop and maintain docs.reversinglabs.com, working primarily with Docusaurus and a modern JavaScript/React stack. Beyond writing documentation, I focus heavily on the surrounding infrastructure: automating build, staging, testing, and deployment workflows using GitLab CI/CD, YAML, Python, and Bash.
+At ReversingLabs, my work revolves around building and maintaining a large-scale documentation platform for complex cybersecurity products. I develop and maintain [docs.reversinglabs.com](https://docs.reversinglabs.com), working primarily with Docusaurus and a modern JavaScript/React stack. Beyond writing documentation, I focus heavily on the surrounding infrastructure: automating build, staging, testing, and deployment workflows using GitLab CI/CD, YAML, Python, and Bash.
 
-A significant part of my role involves implementing and maintaining OpenAPI specifications for API endpoints, using tools like Redocly and Swagger to ensure accuracy and usability. I regularly write changelogs and documentation updates alongside new releases, aiming to keep the documentation tightly aligned with the product’s evolution rather than treating it as an afterthought.
+A significant part of my role involves implementing and maintaining OpenAPI specifications for API endpoints, using tools like Redocly and Swagger to ensure accuracy and usability. I regularly write changelogs and documentation updates alongside new releases, keeping the documentation aligned with the product’s development cycle.
 
 <!-- - Developed and maintained [docs.reversinglabs.com](https://docs.reversinglabs.com)
   - _Docusaurus_, _JavaScript_, _React_, _Markdown_, _HTML_, _CSS_
@@ -28,9 +28,9 @@ A significant part of my role involves implementing and maintaining OpenAPI spec
 
 > July 2024 - February 2025
 
-At Daytona, I was responsible for developing and maintaining daytona.io/docs, built with Astro and a React-based frontend. Similar to my work elsewhere, I handled both content and tooling: setting up and maintaining automated build and deployment workflows using GitHub Actions, YAML, Python, and TypeScript.
+At Daytona, I was responsible for developing and maintaining [daytona.io/docs](https://daytona.io/docs), built with Astro and a React-based frontend. Similar to my work elsewhere, I handled both content and tooling: setting up and maintaining automated build and deployment workflows using GitHub Actions, YAML, Python, and TypeScript.
 
-I implemented OpenAPI specifications for Daytona’s APIs and integrated them using Redocly and Swagger. My focus was on producing clear, concise documentation updates for new releases while keeping the documentation site fast, maintainable, and easy to navigate.
+My focus was on producing clear, concise documentation updates for new releases while keeping the documentation site fast, maintainable, and easy to navigate.
 
 <!-- - Developed and maintained [daytona.io/docs](https://daytona.io/docs)
   - _Astro_, _JavaScript_, _React_, _Markdown_, _HTML_, _CSS_
