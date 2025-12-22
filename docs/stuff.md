@@ -83,8 +83,9 @@ A list of the stuff I own and have used. I don't keep track of everything I own,
 
 ## Accessories
 
-| Item              | Model    | Purchased |
-| :---------------- | :------- | :-------- |
-| Monitor Stand     | SBOX LCD | 2023 -    |
-| Monitor Light Bar | Xiaomi   | 2023 -    |
-| Laptop Stand      |          | 2024 -    |
+| Item               | Model     | Purchased   |
+| :----------------- | :-------- | :---------- |
+| Microphone         | Blue Yeti | 2016 - 2020 |
+| Monitor Desk Stand | SBOX LCD  | 2023 -      |
+| Monitor Light Bar  | Xiaomi    | 2023 -      |
+| Laptop Stand       |           | 2024 -      |
