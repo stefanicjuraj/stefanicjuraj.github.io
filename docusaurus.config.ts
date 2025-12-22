@@ -4,23 +4,19 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Juraj Štefanić",
-  tagline: "software engineer & technical writer",
+  tagline: "Software Engineer. Technical Writer.",
   favicon: "img/favicon.ico",
-
   url: "https://stefanicjuraj.github.io",
   baseUrl: "/",
   organizationName: "stefanicjuraj",
   projectName: "stefanicjuraj.github.io",
   deploymentBranch: "gh-pages",
-
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
   },
-
   presets: [
     [
       "classic",
@@ -58,19 +54,19 @@ const config: Config = {
 
   themeConfig: {
     navbar: {
-      title: "Juraj Štefanić",
+      title: "",
       items: [
-        {
-          type: "doc",
-          docId: "work",
-          position: "left",
-          label: "Work",
-        },
-        {
-          to: "/blog",
-          position: "left",
-          label: "Blog",
-        },
+        // {
+        //   type: "doc",
+        //   docId: "work",
+        //   position: "left",
+        //   label: "Work",
+        // },
+        // {
+        //   to: "/blog",
+        //   position: "left",
+        //   label: "Posts",
+        // },
       ],
     },
     prism: {
