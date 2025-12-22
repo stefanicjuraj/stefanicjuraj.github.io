@@ -16,6 +16,7 @@ export default {
   "content---c-37-d02": [() => import(/* webpackChunkName: "content---c-37-d02" */ "@site/docs/index.md"), "@site/docs/index.md", require.resolveWeak("@site/docs/index.md")],
   "content---cliba-6-af5": [() => import(/* webpackChunkName: "content---cliba-6-af5" */ "@site/docs/cli.mdx"), "@site/docs/cli.mdx", require.resolveWeak("@site/docs/cli.mdx")],
   "content---foodd-2-e-dd7": [() => import(/* webpackChunkName: "content---foodd-2-e-dd7" */ "@site/docs/food.mdx"), "@site/docs/food.mdx", require.resolveWeak("@site/docs/food.mdx")],
+  "content---journal-42-b-568": [() => import(/* webpackChunkName: "content---journal-42-b-568" */ "@site/docs/journal.md"), "@site/docs/journal.md", require.resolveWeak("@site/docs/journal.md")],
   "content---now-192-4f8": [() => import(/* webpackChunkName: "content---now-192-4f8" */ "@site/docs/now.md"), "@site/docs/now.md", require.resolveWeak("@site/docs/now.md")],
   "content---projects-better-markdown-tables-164-18d": [() => import(/* webpackChunkName: "content---projects-better-markdown-tables-164-18d" */ "@site/docs/projects/better-markdown-tables.md"), "@site/docs/projects/better-markdown-tables.md", require.resolveWeak("@site/docs/projects/better-markdown-tables.md")],
   "content---projects-changelog-world-500-80c": [() => import(/* webpackChunkName: "content---projects-changelog-world-500-80c" */ "@site/docs/projects/changelog.md"), "@site/docs/projects/changelog.md", require.resolveWeak("@site/docs/projects/changelog.md")],

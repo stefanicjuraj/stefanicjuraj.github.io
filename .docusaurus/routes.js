@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '3d7'),
+    component: ComponentCreator('/', '658'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'f9e'),
+        component: ComponentCreator('/', '34e'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '605'),
+            component: ComponentCreator('/', '386'),
             routes: [
               {
                 path: '/bookmarks',
@@ -69,6 +69,12 @@ export default [
               {
                 path: '/food',
                 component: ComponentCreator('/food', '0f0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/journal',
+                component: ComponentCreator('/journal', '75d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
