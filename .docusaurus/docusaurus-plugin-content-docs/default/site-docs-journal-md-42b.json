@@ -1,0 +1,27 @@
+{
+  "id": "journal",
+  "title": "Journal",
+  "description": "December 2025",
+  "source": "@site/docs/journal.md",
+  "sourceDirName": ".",
+  "slug": "/journal",
+  "permalink": "/journal",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Journal",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Now",
+    "permalink": "/now"
+  },
+  "next": {
+    "title": "Bookmarks",
+    "permalink": "/bookmarks"
+  }
+}
