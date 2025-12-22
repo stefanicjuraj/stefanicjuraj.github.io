@@ -14,7 +14,7 @@ The process of collecting data involves a combination of automatic and manual da
 
 The initial launch of the project was announced on [Reddit](https://www.reddit.com/r/CroIT/comments/1bfba43/kolekcija_it_kompanija_konferencija_edukacija/). I also shared it on LinkedIn, Facebook, Twitter, and Bluesky to gain user traction and gather feedback from the community. As I had no prior experience with releasing public projects, the initial response was overwhelming but invaluable. The inputs I received helped shape the platform in many ways.
 
-<img src="/img/it-croatia-reddit.png" width="70%" alt="it-croatia.com" />
+<img src="/img/it-croatia-reddit.png" width="100%" alt="it-croatia.com" />
 
 <br />
 <br />
@@ -29,7 +29,7 @@ After the initial launch, I focused solely on user feedback: adding more data an
 
 I also focused on studying project analytics and insights (heatmaps and session recordings), as I was interested in how users use the website.
 
-<img src="/img/it-croatia-heatmap.jpeg" width="70%" alt="it-croatia.com" />
+<img src="/img/it-croatia-heatmap.jpeg" width="100%" alt="it-croatia.com" />
 
 <br />
 <br />
@@ -44,7 +44,7 @@ In contrast, mobile users interacted more with the table data filters to narrow 
 
 I tried a few tools: Vercel, Cloudflare, Google Analytics, Microsoft Clarity, and PostHog. At some point, I had all of them running, so I used a piece of paper to track the data from each.
 
-<img src="/img/it-croatia-analytics-initial.jpeg" width="50%" alt="it-croatia.com" />
+<img src="/img/it-croatia-analytics-initial.jpeg" width="100%" alt="it-croatia.com" />
 
 <br />
 <br />
