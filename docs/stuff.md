@@ -26,6 +26,7 @@ A list of the stuff I own and have used. I don't keep track of everything I own,
 | :------------- | :----------- | :------------- | :------- | :---------- |
 | Toshiba        | Intel        | Windows 7      | School   | 2010 - 2018 |
 | Macbook Pro    | Intel        | macOS Monterey | Personal | 2018 - 2022 |
+| iMac           | Intel        | macOS Monterey | Work     | 2020 - 2021 |
 | Dell           | Intel        | Windows 11     | Work     | 2020 - 2021 |
 | Dell Precision | Intel        | Linux Fedora   | Work     | 2022 - 2025 |
 | Macbook Pro    | Apple M4     | macOS Tahoe    | Personal | 2024 -      |
@@ -76,16 +77,22 @@ A list of the stuff I own and have used. I don't keep track of everything I own,
 
 ## Audio
 
-| Item         | Purchased   |
-| :----------- | :---------- |
-| Razer Kraken | 2012 - 2018 |
-| AirPods      | 2018 - 2025 |
+| Item               | Purchased   |
+| :----------------- | :---------- |
+| Razer Kraken       | 2012 - 2018 |
+| Apple EarPods (3x) | 2016 - 2020 |
+| Bose SoundLink     | 2018 - 2024 |
+| AirPods (2x)       | 2018 - 2025 |
+| Xiaomi Buds 3      | 2023 -      |
 
 ## Accessories
 
-| Item               | Model     | Purchased   |
-| :----------------- | :-------- | :---------- |
-| Microphone         | Blue Yeti | 2016 - 2020 |
-| Monitor Desk Stand | SBOX LCD  | 2023 -      |
-| Monitor Light Bar  | Xiaomi    | 2023 -      |
-| Laptop Stand       |           | 2024 -      |
+| Item                       | Model     | Purchased   |
+| :------------------------- | :-------- | :---------- |
+| Microphone                 | Blue Yeti | 2016 - 2020 |
+| Mouse Pad (10x)            |           | 2016 -      |
+| Monitor Light Bar          | Xiaomi    | 2023 -      |
+| Monitor Desk Stand         | IKEA      | 2023 -      |
+| Laptop Stand               |           | 2024 -      |
+| Monitor Desk Mount         | SBOX LCD  | 2025 -      |
+| Phone Desk Stand (Charger) |           | 2025 -      |
