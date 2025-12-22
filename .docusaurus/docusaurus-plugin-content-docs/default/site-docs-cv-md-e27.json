@@ -1,0 +1,25 @@
+{
+  "id": "cv",
+  "title": "Resume",
+  "description": "ReversingLabs",
+  "source": "@site/docs/cv.md",
+  "sourceDirName": ".",
+  "slug": "/cv",
+  "permalink": "/cv",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Resume"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stuff",
+    "permalink": "/stuff"
+  },
+  "next": {
+    "title": "Food",
+    "permalink": "/food"
+  }
+}

@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '37c'),
+    component: ComponentCreator('/', '3d7'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'c27'),
+        component: ComponentCreator('/', 'f9e'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'a7a'),
+            component: ComponentCreator('/', '605'),
             routes: [
               {
                 path: '/bookmarks',
@@ -62,13 +62,19 @@ export default [
               },
               {
                 path: '/cli',
-                component: ComponentCreator('/cli', 'd1b'),
+                component: ComponentCreator('/cli', '453'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/food',
                 component: ComponentCreator('/food', '0f0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/now',
+                component: ComponentCreator('/now', '280'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

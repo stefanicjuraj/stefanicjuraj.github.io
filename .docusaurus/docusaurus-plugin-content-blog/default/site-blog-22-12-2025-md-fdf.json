@@ -1,0 +1,20 @@
+{
+  "permalink": "/blog/documentation-of-the-future-and-beyond",
+  "source": "@site/blog/22-12-2025.md",
+  "title": "Documentation of the future and beyond",
+  "description": "I am not going to go into detail here about what technical writing, documentation, and docs-as-code are, but",
+  "date": "2025-12-22T00:43:47.686Z",
+  "tags": [],
+  "readingTime": 0.1,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Documentation of the future and beyond",
+    "slug": "documentation-of-the-future-and-beyond"
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Ramblings",
+    "permalink": "/blog/ramblings"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "work copy",
+  "title": "Work",
+  "description": "ReversingLabs",
+  "source": "@site/docs/work copy.md",
+  "sourceDirName": ".",
+  "slug": "/work copy",
+  "permalink": "/work copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Work",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "skillsets.tech [archived]",
+    "permalink": "/projects/skillsets"
+  },
+  "next": {
+    "title": "Work",
+    "permalink": "/work"
+  }
+}
