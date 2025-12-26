@@ -44,25 +44,19 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '658'),
+    component: ComponentCreator('/', '565'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '34e'),
+        component: ComponentCreator('/', '62a'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '386'),
+            component: ComponentCreator('/', '92f'),
             routes: [
               {
                 path: '/bookmarks',
                 component: ComponentCreator('/bookmarks', '7a2'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/cli',
-                component: ComponentCreator('/cli', '453'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

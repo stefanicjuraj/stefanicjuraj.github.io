@@ -48,26 +48,22 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/-658": {
+  "/-565": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-34e": {
+  "/-62a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
   },
-  "/-386": {
+  "/-92f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/bookmarks-7a2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---bookmarks-62-f-e0e"
-  },
-  "/cli-453": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---cliba-6-af5"
   },
   "/food-0f0": {
     "__comp": "__comp---theme-doc-item-178-a40",
