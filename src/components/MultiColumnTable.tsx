@@ -5,17 +5,27 @@ interface MultiColumnTableProps {
   headers: React.ReactNode[];
   rows: React.ReactNode[][];
   rowsPerColumn?: number;
+  sortAlphabetically?: boolean;
 }
 
 export default function MultiColumnTable({
   headers,
   rows,
   rowsPerColumn = 10,
+  sortAlphabetically = false,
 }: MultiColumnTableProps) {
+  const sortedRows = sortAlphabetically
+    ? [...rows].sort((a, b) => {
+        const aValue = String(a[0] || "").toLowerCase();
+        const bValue = String(b[0] || "").toLowerCase();
+        return aValue.localeCompare(bValue);
+      })
+    : rows;
+
   const columns: React.ReactNode[][][] = [];
 
-  for (let i = 0; i < rows.length; i += rowsPerColumn) {
-    columns.push(rows.slice(i, i + rowsPerColumn));
+  for (let i = 0; i < sortedRows.length; i += rowsPerColumn) {
+    columns.push(sortedRows.slice(i, i + rowsPerColumn));
   }
 
   return (
