@@ -1,0 +1,27 @@
+{
+  "id": "library",
+  "title": "Library",
+  "description": "Shows",
+  "source": "@site/docs/library.mdx",
+  "sourceDirName": ".",
+  "slug": "/library",
+  "permalink": "/library",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Library",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bookmarks",
+    "permalink": "/bookmarks"
+  },
+  "next": {
+    "title": "Stuff",
+    "permalink": "/stuff"
+  }
+}
