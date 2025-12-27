@@ -87,12 +87,15 @@ A list of the stuff I own and have used. I don't keep track of everything I own,
 
 ## Accessories
 
-| Item                        | Purchased   |
-| :-------------------------- | :---------- |
-| ~~Microphone Blue Yeti~~    | 2016 - 2020 |
-| Mouse Pad                   | 2016 -      |
-| Monitor Light Bar Xiaomi    | 2023 -      |
-| Monitor Desk Stand IKEA     | 2023 -      |
-| Laptop Stand                | 2024 -      |
-| Monitor Desk Mount SBOX LCD | 2025 -      |
-| Phone Desk Stand (Charger)  | 2025 -      |
+| Item                          | Purchased   |
+| :---------------------------- | :---------- |
+| ~~Microphone Blue Yeti~~      | 2016 - 2020 |
+| Mouse Pad                     | 2016 -      |
+| Monitor Light Bar (Xiaomi)    | 2023 -      |
+| Monitor Desk Stand (IKEA)     | 2023 -      |
+| Laptop Stand                  | 2024 -      |
+| Monitor Desk Mount (SBOX LCD) | 2025 -      |
+| Phone Desk Mount              | 2025 -      |
+| ~~Backpack (Samsonite)~~      | 2023 - 2025 |
+| Mini Backpack (Rains)         | 2023 -      |
+| Backpack (Rains)              | 2025 -      |
