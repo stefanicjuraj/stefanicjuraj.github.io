@@ -17,7 +17,7 @@ A list of the stuff I own and have used. I don't keep track of everything I own,
 | ~~iPhone 4~~                    | 2013 - 2013 |
 | ~~iPhone 5~~                    | 2014 - 2014 |
 | ~~iPhone 8~~                    | 2015 - 2021 |
-| iPhone 13                       | 2021 - 2024 |
+| ~~iPhone 13~~                   | 2021 - 2024 |
 | iPhone 16                       | 2024 -      |
 
 ## Computers
@@ -80,9 +80,9 @@ A list of the stuff I own and have used. I don't keep track of everything I own,
 | Item               | Purchased   |
 | :----------------- | :---------- |
 | ~~Razer Kraken~~   | 2012 - 2018 |
-| Apple EarPods      | 2016 - 2020 |
+| ~~Apple EarPods~~  | 2016 - 2020 |
 | ~~Bose SoundLink~~ | 2018 - 2024 |
-| Apple AirPods      | 2018 - 2025 |
+| ~~Apple AirPods~~  | 2018 - 2025 |
 | Xiaomi Buds 3      | 2023 -      |
 
 ## Accessories
