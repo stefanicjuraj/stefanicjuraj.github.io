@@ -7,7 +7,7 @@ sidebar_position: 3
 
 #### Technical Content Engineer
 
-> July 2024 - February 2025
+> January 2026 - Present
 
 ### [ReversingLabs](https://reversinglabs.com)
 
