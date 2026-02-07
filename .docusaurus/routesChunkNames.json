@@ -48,17 +48,17 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/-128": {
+  "/-f15": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-e93": {
+  "/-252": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
   },
-  "/-ea4": {
+  "/-e9b": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/bookmarks-7a2": {
@@ -69,17 +69,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---foodd-2-e-dd7"
   },
-  "/journal-75d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---journal-42-b-568"
-  },
   "/library-cab": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---library-74-e-89d"
-  },
-  "/now-280": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---now-192-4f8"
   },
   "/projects/-796": {
     "__comp": "__comp---theme-doc-item-178-a40",
