@@ -11,15 +11,9 @@ sidebar_position: 3
 
 ### [ReversingLabs](https://reversinglabs.com)
 
-#### Technical Writer / Documentation Engineer
+#### Technical Content Engineer
 
 > April 2023 - December 2025
-
-### [Daytona](https://daytona.io)
-
-#### Technical Writer / Documentation Engineer
-
-> July 2024 - February 2025
 
 ### [Rochester Institute of Technology](https://rit.edu)
 
