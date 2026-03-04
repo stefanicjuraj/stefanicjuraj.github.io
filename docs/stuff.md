@@ -68,6 +68,7 @@ A list of the stuff I own and have used. I don't keep track of everything I own,
 | ~~Apple Magic Keyboard~~ | 2012 - 2015 |
 | Logitech                 | 2021 -      |
 | RedDragon Castor         | 2024 -      |
+| Logitech Pop Icon        | 2026 -      |
 
 ## Mouse
 
