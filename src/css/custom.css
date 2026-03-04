@@ -78,9 +78,9 @@ table tr:nth-child(2n) {
   background-color: transparent;
 }
 
-/* nav[aria-label="Docs sidebar"] {
-  border-right: 0px;
-} */
+.theme-doc-sidebar-container {
+  border-right: none !important;
+}
 
 nav[aria-label="Main"] {
   border-bottom: 0px;
